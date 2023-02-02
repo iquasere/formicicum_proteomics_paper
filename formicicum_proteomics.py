@@ -3,6 +3,8 @@ import os
 import numpy as np
 import pathlib
 
+from paper_utils import run_command, run_pipe_command
+
 
 database = 'task1/database.fasta'
 decoy_database = database.replace('.fasta', '_concatenated_target_decoy.fasta')

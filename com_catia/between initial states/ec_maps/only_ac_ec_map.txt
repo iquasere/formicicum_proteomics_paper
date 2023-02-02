@@ -1,0 +1,154 @@
+map01100 Metabolic pathways (19)
+
+  ec:1.17.4.2 ribonucleoside-triphosphate reductase (thioredoxin); ribonucleotide reductase (ambiguous); 2'-deoxyribonucleoside-triphosphate:oxidized-thioredoxin 2'-oxidoreductase
+  ec:1.2.7.7 3-methyl-2-oxobutanoate dehydrogenase (ferredoxin); 2-ketoisovalerate ferredoxin reductase; 3-methyl-2-oxobutanoate synthase (ferredoxin); VOR; branched-chain ketoacid ferredoxin reductase; branched-chain oxo acid ferredoxin reductase; keto-valine-ferredoxin oxidoreductase; ketoisovalerate ferredoxin reductase; 2-oxoisovalerate ferredoxin reductase
+  ec:2.1.1.195 cobalt-precorrin-5B (C1)-methyltransferase; cobalt-precorrin-6A synthase; CbiD
+  ec:2.5.1.147 5-amino-6-(D-ribitylamino)uracil---L-tyrosine 4-hydroxyphenyl transferase; cofH (gene name); cbiF (gene name) (ambiguous)
+  ec:2.6.1.16 glutamine---fructose-6-phosphate transaminase (isomerizing); hexosephosphate aminotransferase; glucosamine-6-phosphate isomerase (glutamine-forming); glutamine-fructose-6-phosphate transaminase (isomerizing); D-fructose-6-phosphate amidotransferase; glucosaminephosphate isomerase; glucosamine 6-phosphate synthase; GlcN6P synthase
+  ec:2.6.1.9 histidinol-phosphate transaminase; imidazolylacetolphosphate transaminase; glutamic-imidazoleacetol phosphate transaminase; histidinol phosphate aminotransferase; imidazoleacetol phosphate transaminase; L-histidinol phosphate aminotransferase; histidine:imidazoleacetol phosphate transaminase; IAP transaminase; imidazolylacetolphosphate aminotransferase
+  ec:2.7.4.6 nucleoside-diphosphate kinase; nucleoside 5'-diphosphate kinase; nucleoside diphosphate (UDP) kinase; nucleoside diphosphokinase; nucleotide phosphate kinase; UDP kinase; uridine diphosphate kinase
+  ec:2.8.1.7 cysteine desulfurase; IscS; NIFS; NifS; SufS; cysteine desulfurylase
+  ec:3.5.4.31 S-methyl-5'-thioadenosine deaminase; MTA deaminase; 5-methylthioadenosine deaminase
+  ec:3.5.4.4 adenosine deaminase; deoxyadenosine deaminase
+  ec:4.2.1.20 tryptophan synthase; L-tryptophan synthetase; indoleglycerol phosphate aldolase; tryptophan desmolase; tryptophan synthetase; L-serine hydro-lyase (adding indoleglycerol-phosphate); L-serine hydro-lyase [adding 1-C-(indol-3-yl)glycerol 3-phosphate, L-tryptophan and glyceraldehyde-3-phosphate-forming]
+  ec:5.1.1.7 diaminopimelate epimerase
+  ec:5.4.2.10 phosphoglucosamine mutase
+  ec:6.1.1.10 methionine---tRNA ligase; methionyl-tRNA synthetase; methionyl-transfer ribonucleic acid synthetase; methionyl-transfer ribonucleate synthetase; methionyl-transfer RNA synthetase; methionine translase; MetRS
+  ec:6.2.1.30 phenylacetate---CoA ligase; phenacyl coenzyme A synthetase; phenylacetyl-CoA ligase; PA-CoA ligase; phenylacetyl-CoA ligase (AMP-forming)
+  ec:6.3.2.9 UDP-N-acetylmuramoyl-L-alanine---D-glutamate ligase; MurD synthetase; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase; uridine diphospho-N-acetylmuramoylalanyl-D-glutamate synthetase; D-glutamate-adding enzyme; D-glutamate ligase; UDP-Mur-NAC-L-Ala:D-Glu ligase; UDP-N-acetylmuramoyl-L-alanine:glutamate ligase (ADP-forming); UDP-N-acetylmuramoylalanine---D-glutamate ligase; UDP-N-acetylmuramoyl-L-alanine:D-glutamate ligase (ADP-forming)
+  ec:6.3.4.2 CTP synthase (glutamine hydrolysing); UTP---ammonia ligase; cytidine triphosphate synthetase; uridine triphosphate aminase; cytidine 5'-triphosphate synthetase; CTPS (gene name); pyrG (gene name); CTP synthase; UTP:ammonia ligase (ADP-forming)
+  ec:6.3.5.5 carbamoyl-phosphate synthase (glutamine-hydrolysing); carbamoyl-phosphate synthetase (glutamine-hydrolysing); carbamyl phosphate synthetase (glutamine); carbamoylphosphate synthetase II; glutamine-dependent carbamyl phosphate synthetase; carbamoyl phosphate synthetase; CPS; carbon-dioxide:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating); carA (gene name); carB (gene name); CAD (gene name); hydrogen-carbonate:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating)
+  ec:6.4.1.1 pyruvate carboxylase; pyruvic carboxylase
+
+map01130 Biosynthesis of antibiotics (6)
+
+  ec:2.6.1.16 glutamine---fructose-6-phosphate transaminase (isomerizing); hexosephosphate aminotransferase; glucosamine-6-phosphate isomerase (glutamine-forming); glutamine-fructose-6-phosphate transaminase (isomerizing); D-fructose-6-phosphate amidotransferase; glucosaminephosphate isomerase; glucosamine 6-phosphate synthase; GlcN6P synthase
+  ec:2.6.1.9 histidinol-phosphate transaminase; imidazolylacetolphosphate transaminase; glutamic-imidazoleacetol phosphate transaminase; histidinol phosphate aminotransferase; imidazoleacetol phosphate transaminase; L-histidinol phosphate aminotransferase; histidine:imidazoleacetol phosphate transaminase; IAP transaminase; imidazolylacetolphosphate aminotransferase
+  ec:2.7.4.6 nucleoside-diphosphate kinase; nucleoside 5'-diphosphate kinase; nucleoside diphosphate (UDP) kinase; nucleoside diphosphokinase; nucleotide phosphate kinase; UDP kinase; uridine diphosphate kinase
+  ec:4.2.1.20 tryptophan synthase; L-tryptophan synthetase; indoleglycerol phosphate aldolase; tryptophan desmolase; tryptophan synthetase; L-serine hydro-lyase (adding indoleglycerol-phosphate); L-serine hydro-lyase [adding 1-C-(indol-3-yl)glycerol 3-phosphate, L-tryptophan and glyceraldehyde-3-phosphate-forming]
+  ec:5.1.1.7 diaminopimelate epimerase
+  ec:5.4.2.10 phosphoglucosamine mutase
+
+map00240 Pyrimidine metabolism (4)
+
+  ec:1.17.4.2 ribonucleoside-triphosphate reductase (thioredoxin); ribonucleotide reductase (ambiguous); 2'-deoxyribonucleoside-triphosphate:oxidized-thioredoxin 2'-oxidoreductase
+  ec:2.7.4.6 nucleoside-diphosphate kinase; nucleoside 5'-diphosphate kinase; nucleoside diphosphate (UDP) kinase; nucleoside diphosphokinase; nucleotide phosphate kinase; UDP kinase; uridine diphosphate kinase
+  ec:6.3.4.2 CTP synthase (glutamine hydrolysing); UTP---ammonia ligase; cytidine triphosphate synthetase; uridine triphosphate aminase; cytidine 5'-triphosphate synthetase; CTPS (gene name); pyrG (gene name); CTP synthase; UTP:ammonia ligase (ADP-forming)
+  ec:6.3.5.5 carbamoyl-phosphate synthase (glutamine-hydrolysing); carbamoyl-phosphate synthetase (glutamine-hydrolysing); carbamyl phosphate synthetase (glutamine); carbamoylphosphate synthetase II; glutamine-dependent carbamyl phosphate synthetase; carbamoyl phosphate synthetase; CPS; carbon-dioxide:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating); carA (gene name); carB (gene name); CAD (gene name); hydrogen-carbonate:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating)
+
+map01110 Biosynthesis of secondary metabolites (4)
+
+  ec:2.6.1.9 histidinol-phosphate transaminase; imidazolylacetolphosphate transaminase; glutamic-imidazoleacetol phosphate transaminase; histidinol phosphate aminotransferase; imidazoleacetol phosphate transaminase; L-histidinol phosphate aminotransferase; histidine:imidazoleacetol phosphate transaminase; IAP transaminase; imidazolylacetolphosphate aminotransferase
+  ec:2.7.4.6 nucleoside-diphosphate kinase; nucleoside 5'-diphosphate kinase; nucleoside diphosphate (UDP) kinase; nucleoside diphosphokinase; nucleotide phosphate kinase; UDP kinase; uridine diphosphate kinase
+  ec:4.2.1.20 tryptophan synthase; L-tryptophan synthetase; indoleglycerol phosphate aldolase; tryptophan desmolase; tryptophan synthetase; L-serine hydro-lyase (adding indoleglycerol-phosphate); L-serine hydro-lyase [adding 1-C-(indol-3-yl)glycerol 3-phosphate, L-tryptophan and glyceraldehyde-3-phosphate-forming]
+  ec:5.1.1.7 diaminopimelate epimerase
+
+map01120 Microbial metabolism in diverse environments (4)
+
+  ec:2.5.1.147 5-amino-6-(D-ribitylamino)uracil---L-tyrosine 4-hydroxyphenyl transferase; cofH (gene name); cbiF (gene name) (ambiguous)
+  ec:5.1.1.7 diaminopimelate epimerase
+  ec:6.2.1.30 phenylacetate---CoA ligase; phenacyl coenzyme A synthetase; phenylacetyl-CoA ligase; PA-CoA ligase; phenylacetyl-CoA ligase (AMP-forming)
+  ec:6.4.1.1 pyruvate carboxylase; pyruvic carboxylase
+
+map00230 Purine metabolism (3)
+
+  ec:1.17.4.2 ribonucleoside-triphosphate reductase (thioredoxin); ribonucleotide reductase (ambiguous); 2'-deoxyribonucleoside-triphosphate:oxidized-thioredoxin 2'-oxidoreductase
+  ec:2.7.4.6 nucleoside-diphosphate kinase; nucleoside 5'-diphosphate kinase; nucleoside diphosphate (UDP) kinase; nucleoside diphosphokinase; nucleotide phosphate kinase; UDP kinase; uridine diphosphate kinase
+  ec:3.5.4.4 adenosine deaminase; deoxyadenosine deaminase
+
+map00250 Alanine, aspartate and glutamate metabolism (2)
+
+  ec:2.6.1.16 glutamine---fructose-6-phosphate transaminase (isomerizing); hexosephosphate aminotransferase; glucosamine-6-phosphate isomerase (glutamine-forming); glutamine-fructose-6-phosphate transaminase (isomerizing); D-fructose-6-phosphate amidotransferase; glucosaminephosphate isomerase; glucosamine 6-phosphate synthase; GlcN6P synthase
+  ec:6.3.5.5 carbamoyl-phosphate synthase (glutamine-hydrolysing); carbamoyl-phosphate synthetase (glutamine-hydrolysing); carbamyl phosphate synthetase (glutamine); carbamoylphosphate synthetase II; glutamine-dependent carbamyl phosphate synthetase; carbamoyl phosphate synthetase; CPS; carbon-dioxide:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating); carA (gene name); carB (gene name); CAD (gene name); hydrogen-carbonate:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating)
+
+map00970 Aminoacyl-tRNA biosynthesis (2)
+
+  ec:6.1.1.10 methionine---tRNA ligase; methionyl-tRNA synthetase; methionyl-transfer ribonucleic acid synthetase; methionyl-transfer ribonucleate synthetase; methionyl-transfer RNA synthetase; methionine translase; MetRS
+  ec:6.1.1.19 arginine---tRNA ligase; arginyl-tRNA synthetase; arginyl-transfer ribonucleate synthetase; arginyl-transfer RNA synthetase; arginyl transfer ribonucleic acid synthetase; arginine-tRNA synthetase; arginine translase
+
+map00360 Phenylalanine metabolism (2)
+
+  ec:2.6.1.9 histidinol-phosphate transaminase; imidazolylacetolphosphate transaminase; glutamic-imidazoleacetol phosphate transaminase; histidinol phosphate aminotransferase; imidazoleacetol phosphate transaminase; L-histidinol phosphate aminotransferase; histidine:imidazoleacetol phosphate transaminase; IAP transaminase; imidazolylacetolphosphate aminotransferase
+  ec:6.2.1.30 phenylacetate---CoA ligase; phenacyl coenzyme A synthetase; phenylacetyl-CoA ligase; PA-CoA ligase; phenylacetyl-CoA ligase (AMP-forming)
+
+map00520 Amino sugar and nucleotide sugar metabolism (2)
+
+  ec:2.6.1.16 glutamine---fructose-6-phosphate transaminase (isomerizing); hexosephosphate aminotransferase; glucosamine-6-phosphate isomerase (glutamine-forming); glutamine-fructose-6-phosphate transaminase (isomerizing); D-fructose-6-phosphate amidotransferase; glucosaminephosphate isomerase; glucosamine 6-phosphate synthase; GlcN6P synthase
+  ec:5.4.2.10 phosphoglucosamine mutase
+
+map00400 Phenylalanine, tyrosine and tryptophan biosynthesis (2)
+
+  ec:2.6.1.9 histidinol-phosphate transaminase; imidazolylacetolphosphate transaminase; glutamic-imidazoleacetol phosphate transaminase; histidinol phosphate aminotransferase; imidazoleacetol phosphate transaminase; L-histidinol phosphate aminotransferase; histidine:imidazoleacetol phosphate transaminase; IAP transaminase; imidazolylacetolphosphate aminotransferase
+  ec:4.2.1.20 tryptophan synthase; L-tryptophan synthetase; indoleglycerol phosphate aldolase; tryptophan desmolase; tryptophan synthetase; L-serine hydro-lyase (adding indoleglycerol-phosphate); L-serine hydro-lyase [adding 1-C-(indol-3-yl)glycerol 3-phosphate, L-tryptophan and glyceraldehyde-3-phosphate-forming]
+
+map00450 Selenocompound metabolism (1)
+
+  ec:6.1.1.10 methionine---tRNA ligase; methionyl-tRNA synthetase; methionyl-transfer ribonucleic acid synthetase; methionyl-transfer ribonucleate synthetase; methionyl-transfer RNA synthetase; methionine translase; MetRS
+
+map00300 Lysine biosynthesis (1)
+
+  ec:5.1.1.7 diaminopimelate epimerase
+
+map00730 Thiamine metabolism (1)
+
+  ec:2.8.1.7 cysteine desulfurase; IscS; NIFS; NifS; SufS; cysteine desulfurylase
+
+map00620 Pyruvate metabolism (1)
+
+  ec:6.4.1.1 pyruvate carboxylase; pyruvic carboxylase
+
+map00960 Tropane, piperidine and pyridine alkaloid biosynthesis (1)
+
+  ec:2.6.1.9 histidinol-phosphate transaminase; imidazolylacetolphosphate transaminase; glutamic-imidazoleacetol phosphate transaminase; histidinol phosphate aminotransferase; imidazoleacetol phosphate transaminase; L-histidinol phosphate aminotransferase; histidine:imidazoleacetol phosphate transaminase; IAP transaminase; imidazolylacetolphosphate aminotransferase
+
+map00983 Drug metabolism - other enzymes (1)
+
+  ec:2.7.4.6 nucleoside-diphosphate kinase; nucleoside 5'-diphosphate kinase; nucleoside diphosphate (UDP) kinase; nucleoside diphosphokinase; nucleotide phosphate kinase; UDP kinase; uridine diphosphate kinase
+
+map00471 D-Glutamine and D-glutamate metabolism (1)
+
+  ec:6.3.2.9 UDP-N-acetylmuramoyl-L-alanine---D-glutamate ligase; MurD synthetase; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase; uridine diphospho-N-acetylmuramoylalanyl-D-glutamate synthetase; D-glutamate-adding enzyme; D-glutamate ligase; UDP-Mur-NAC-L-Ala:D-Glu ligase; UDP-N-acetylmuramoyl-L-alanine:glutamate ligase (ADP-forming); UDP-N-acetylmuramoylalanine---D-glutamate ligase; UDP-N-acetylmuramoyl-L-alanine:D-glutamate ligase (ADP-forming)
+
+map00401 Novobiocin biosynthesis (1)
+
+  ec:2.6.1.9 histidinol-phosphate transaminase; imidazolylacetolphosphate transaminase; glutamic-imidazoleacetol phosphate transaminase; histidinol phosphate aminotransferase; imidazoleacetol phosphate transaminase; L-histidinol phosphate aminotransferase; histidine:imidazoleacetol phosphate transaminase; IAP transaminase; imidazolylacetolphosphate aminotransferase
+
+map00340 Histidine metabolism (1)
+
+  ec:2.6.1.9 histidinol-phosphate transaminase; imidazolylacetolphosphate transaminase; glutamic-imidazoleacetol phosphate transaminase; histidinol phosphate aminotransferase; imidazoleacetol phosphate transaminase; L-histidinol phosphate aminotransferase; histidine:imidazoleacetol phosphate transaminase; IAP transaminase; imidazolylacetolphosphate aminotransferase
+
+map00680 Methane metabolism (1)
+
+  ec:2.5.1.147 5-amino-6-(D-ribitylamino)uracil---L-tyrosine 4-hydroxyphenyl transferase; cofH (gene name); cbiF (gene name) (ambiguous)
+
+map00720 Carbon fixation pathways in prokaryotes (1)
+
+  ec:6.4.1.1 pyruvate carboxylase; pyruvic carboxylase
+
+map00020 Citrate cycle (TCA cycle) (1)
+
+  ec:6.4.1.1 pyruvate carboxylase; pyruvic carboxylase
+
+map00270 Cysteine and methionine metabolism (1)
+
+  ec:3.5.4.31 S-methyl-5'-thioadenosine deaminase; MTA deaminase; 5-methylthioadenosine deaminase
+
+map00550 Peptidoglycan biosynthesis (1)
+
+  ec:6.3.2.9 UDP-N-acetylmuramoyl-L-alanine---D-glutamate ligase; MurD synthetase; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase; uridine diphospho-N-acetylmuramoylalanyl-D-glutamate synthetase; D-glutamate-adding enzyme; D-glutamate ligase; UDP-Mur-NAC-L-Ala:D-Glu ligase; UDP-N-acetylmuramoyl-L-alanine:glutamate ligase (ADP-forming); UDP-N-acetylmuramoylalanine---D-glutamate ligase; UDP-N-acetylmuramoyl-L-alanine:D-glutamate ligase (ADP-forming)
+
+map00350 Tyrosine metabolism (1)
+
+  ec:2.6.1.9 histidinol-phosphate transaminase; imidazolylacetolphosphate transaminase; glutamic-imidazoleacetol phosphate transaminase; histidinol phosphate aminotransferase; imidazoleacetol phosphate transaminase; L-histidinol phosphate aminotransferase; histidine:imidazoleacetol phosphate transaminase; IAP transaminase; imidazolylacetolphosphate aminotransferase
+
+map00280 Valine, leucine and isoleucine degradation (1)
+
+  ec:1.2.7.7 3-methyl-2-oxobutanoate dehydrogenase (ferredoxin); 2-ketoisovalerate ferredoxin reductase; 3-methyl-2-oxobutanoate synthase (ferredoxin); VOR; branched-chain ketoacid ferredoxin reductase; branched-chain oxo acid ferredoxin reductase; keto-valine-ferredoxin oxidoreductase; ketoisovalerate ferredoxin reductase; 2-oxoisovalerate ferredoxin reductase
+
+map00260 Glycine, serine and threonine metabolism (1)
+
+  ec:4.2.1.20 tryptophan synthase; L-tryptophan synthetase; indoleglycerol phosphate aldolase; tryptophan desmolase; tryptophan synthetase; L-serine hydro-lyase (adding indoleglycerol-phosphate); L-serine hydro-lyase [adding 1-C-(indol-3-yl)glycerol 3-phosphate, L-tryptophan and glyceraldehyde-3-phosphate-forming]
+
+map00860 Porphyrin and chlorophyll metabolism (1)
+
+  ec:2.1.1.195 cobalt-precorrin-5B (C1)-methyltransferase; cobalt-precorrin-6A synthase; CbiD

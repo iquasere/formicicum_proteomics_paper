@@ -1,0 +1,260 @@
+KEGG Mapper Search Result
+Pathway (38)
+Brite (0)
+Module (59)
+Sort by the pathway list
+Show matched objects
+map01100 Metabolic pathways (36)
+
+  ec:1.1.1.337 L-2-hydroxycarboxylate dehydrogenase (NAD+); (R)-sulfolactate:NAD+ oxidoreductase; L-sulfolactate dehydrogenase; (R)-sulfolactate dehydrogenase; L-2-hydroxyacid dehydrogenase (NAD+); ComC
+  ec:1.1.1.37 malate dehydrogenase; malic dehydrogenase; L-malate dehydrogenase; NAD-L-malate dehydrogenase; malic acid dehydrogenase; NAD-dependent malic dehydrogenase; NAD-malate dehydrogenase; NAD-malic dehydrogenase; malate (NAD) dehydrogenase; NAD-dependent malate dehydrogenase; NAD-specific malate dehydrogenase; NAD-linked malate dehydrogenase; MDH; L-malate-NAD+ oxidoreductase
+  ec:1.1.1.85 3-isopropylmalate dehydrogenase; beta-isopropylmalic enzyme; beta-isopropylmalate dehydrogenase; threo-Ds-3-isopropylmalate dehydrogenase; 3-carboxy-2-hydroxy-4-methylpentanoate:NAD+ oxidoreductase
+  ec:1.2.7.3 2-oxoglutarate synthase; 2-ketoglutarate ferredoxin oxidoreductase; 2-oxoglutarate:ferredoxin oxidoreductase; KGOR; 2-oxoglutarate ferredoxin oxidoreductase; 2-oxoglutarate:ferredoxin 2-oxidoreductase (CoA-succinylating)
+  ec:2.2.1.6 acetolactate synthase; alpha-acetohydroxy acid synthetase; alpha-acetohydroxyacid synthase; alpha-acetolactate synthase; alpha-acetolactate synthetase; acetohydroxy acid synthetase; acetohydroxyacid synthase; acetolactate pyruvate-lyase (carboxylating); acetolactic synthetase
+  ec:2.3.1.1 amino-acid N-acetyltransferase; N-acetylglutamate synthase; AGAS; acetylglutamate acetylglutamate synthetase; acetylglutamic synthetase; amino acid acetyltransferase; N-acetyl-L-glutamate synthetase; N-acetylglutamate synthetase
+  ec:2.3.1.35 glutamate N-acetyltransferase; ornithine transacetylase; alpha-N-acetyl-L-ornithine:L-glutamate N-acetyltransferase; acetylglutamate synthetase; acetylglutamate-acetylornithine transacetylase; acetylglutamic synthetase; acetylglutamic-acetylornithine transacetylase; acetylornithinase; acetylornithine glutamate acetyltransferase; glutamate acetyltransferase; N-acetyl-L-glutamate synthetase; N-acetylglutamate synthase; N-acetylglutamate synthetase; ornithine acetyltransferase; 2-N-acetyl-L-ornithine:L-glutamate N-acetyltransferase
+  ec:2.4.2.17 ATP phosphoribosyltransferase; phosphoribosyl-ATP pyrophosphorylase; adenosine triphosphate phosphoribosyltransferase; phosphoribosyladenosine triphosphate:pyrophosphate phosphoribosyltransferase; phosphoribosyl ATP synthetase; phosphoribosyl ATP:pyrophosphate phosphoribosyltransferase; phosphoribosyl-ATP:pyrophosphate-phosphoribosyl phosphotransferase; phosphoribosyladenosine triphosphate pyrophosphorylase; phosphoribosyladenosine triphosphate synthetase; 1-(5-phospho-D-ribosyl)-ATP:diphosphate phospho-alpha-D-ribosyl-transferase
+  ec:2.4.2.19 nicotinate-nucleotide diphosphorylase (carboxylating); quinolinate phosphoribosyltransferase (decarboxylating); quinolinic acid phosphoribosyltransferase; QAPRTase; NAD+ pyrophosphorylase; nicotinate mononucleotide pyrophosphorylase (carboxylating); quinolinic phosphoribosyltransferase
+  ec:2.4.2.44 S-methyl-5'-thioinosine phosphorylase; MTIP; MTI phosphorylase; methylthioinosine phosphorylase
+  ec:2.6.1.16 glutamine---fructose-6-phosphate transaminase (isomerizing); hexosephosphate aminotransferase; glucosamine-6-phosphate isomerase (glutamine-forming); glutamine-fructose-6-phosphate transaminase (isomerizing); D-fructose-6-phosphate amidotransferase; glucosaminephosphate isomerase; glucosamine 6-phosphate synthase; GlcN6P synthase
+  ec:2.6.1.39 2-aminoadipate transaminase; alpha-aminoadipate aminotransferase; 2-aminoadipate aminotransferase; 2-aminoadipic aminotransferase; glutamic-ketoadipic transaminase; glutamate-alpha-ketoadipate transaminase
+  ec:2.7.1.71 shikimate kinase; shikimate kinase (phosphorylating); shikimate kinase II
+  ec:2.7.4.25 (d)CMP kinase; prokaryotic cytidylate kinase; deoxycytidylate kinase; dCMP kinase; deoxycytidine monophosphokinase
+  ec:2.7.4.3 adenylate kinase; myokinase; 5'-AMP-kinase; adenylic kinase; adenylokinase
+  ec:2.7.4.7 phosphooxymethylpyrimidine kinase; hydroxymethylpyrimidine phosphokinase; ATP:4-amino-2-methyl-5-phosphooxymethylpyrimidine phosphotransferase; ATP:(4-amino-2-methylpyrimidin-5-yl)methyl-phosphate phosphotransferase; phosphomethylpyrimidine kinase
+  ec:2.7.6.1 ribose-phosphate diphosphokinase; ribose-phosphate pyrophosphokinase; PRPP synthetase; phosphoribosylpyrophosphate synthetase; PPRibP synthetase; PP-ribose P synthetase; 5-phosphoribosyl-1-pyrophosphate synthetase; 5-phosphoribose pyrophosphorylase; 5-phosphoribosyl-alpha-1-pyrophosphate synthetase; phosphoribosyl-diphosphate synthetase; phosphoribosylpyrophosphate synthase; pyrophosphoribosylphosphate synthetase; ribophosphate pyrophosphokinase; ribose-5-phosphate pyrophosphokinase
+  ec:2.8.1.7 cysteine desulfurase; IscS; NIFS; NifS; SufS; cysteine desulfurylase
+  ec:3.1.3.71 2-phosphosulfolactate phosphatase; (2R)-phosphosulfolactate phosphohydrolase; ComB phosphatase
+  ec:3.5.4.30 dCTP deaminase (dUMP-forming)
+  ec:4.1.1.36 phosphopantothenoylcysteine decarboxylase; 4-phosphopantotheoylcysteine decarboxylase; 4-phosphopantothenoyl-L-cysteine decarboxylase; PPC-decarboxylase; N-[(R)-4'-phosphopantothenoyl]-L-cysteine carboxy-lyase
+  ec:4.1.1.48 indole-3-glycerol-phosphate synthase; indoleglycerol phosphate synthetase; indoleglycerol phosphate synthase; indole-3-glycerophosphate synthase; 1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate carboxy-lyase (cyclizing)
+  ec:4.1.99.12 3,4-dihydroxy-2-butanone-4-phosphate synthase; DHBP synthase; L-3,4-dihydroxybutan-2-one-4-phosphate synthase
+  ec:4.2.1.24 porphobilinogen synthase; aminolevulinate dehydratase; delta-aminolevulinate dehydratase; delta-aminolevulinic acid dehydrase; delta-aminolevulinic acid dehydratase; aminolevulinic dehydratase; delta-aminolevulinic dehydratase; 5-levulinic acid dehydratase; 5-aminolevulinate hydro-lyase (adding 5-aminolevulinate and cyclizing); hemB (gene name)
+  ec:4.3.2.1 argininosuccinate lyase; arginosuccinase; argininosuccinic acid lyase; arginine-succinate lyase; N-(L-argininosuccinate) arginine-lyase; omega-N-(L-arginino)succinate arginine-lyase; 2-(omega-N-L-arginino)succinate arginine-lyase (fumarate-forming)
+  ec:4.3.2.10 imidazole glycerol-phosphate synthase; IGP synthase; hisFH (gene names); HIS7 (gene name)
+  ec:5.3.1.16 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase; N-(5'-phospho-D-ribosylformimino)-5-amino-1-(5''-phosphoribosyl)-4-imidazolecarboxamide isomerase; phosphoribosylformiminoaminophosphoribosylimidazolecarboxamide isomerase; N-(phosphoribosylformimino) aminophosphoribosylimidazolecarboxamide isomerase; 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide ketol-isomerase; 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide aldose-ketose-isomerase
+  ec:5.4.2.12 phosphoglycerate mutase (2,3-diphosphoglycerate-independent); cofactor independent phosphoglycerate mutase; 2,3-diphosphoglycerate-independent phosphoglycerate mutase; phosphoglycerate phosphomutase (ambiguous); phosphoglyceromutase (ambiguous); monophosphoglycerate mutase (ambiguous); monophosphoglyceromutase (ambiguous); GriP mutase (ambiguous); PGA mutase (ambiguous); iPGM; iPGAM; PGAM-i
+  ec:6.2.1.1 acetate---CoA ligase; acetyl-CoA synthetase; acetyl activating enzyme; acetate thiokinase; acyl-activating enzyme; acetyl coenzyme A synthetase; acetic thiokinase; acetyl CoA ligase; acetyl CoA synthase; acetyl-coenzyme A synthase; short chain fatty acyl-CoA synthetase; short-chain acyl-coenzyme A synthetase; ACS
+  ec:6.3.1.5 NAD+ synthase; NAD synthetase; NAD synthase; nicotinamide adenine dinucleotide synthetase; diphosphopyridine nucleotide synthetase
+  ec:6.3.2.31 coenzyme F420-0:L-glutamate ligase; CofE-AF; MJ0768; CofE
+  ec:6.3.2.34 coenzyme F420-1:gamma-L-glutamate ligase; F420:gamma-glutamyl ligase; CofE-AF; MJ0768; CofE
+  ec:6.3.2.5 phosphopantothenate---cysteine ligase (CTP); phosphopantothenoylcysteine synthetase (ambiguous); phosphopantothenate---cysteine ligase (ambiguous)
+  ec:6.3.2.9 UDP-N-acetylmuramoyl-L-alanine---D-glutamate ligase; MurD synthetase; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase; uridine diphospho-N-acetylmuramoylalanyl-D-glutamate synthetase; D-glutamate-adding enzyme; D-glutamate ligase; UDP-Mur-NAC-L-Ala:D-Glu ligase; UDP-N-acetylmuramoyl-L-alanine:glutamate ligase (ADP-forming); UDP-N-acetylmuramoylalanine---D-glutamate ligase; UDP-N-acetylmuramoyl-L-alanine:D-glutamate ligase (ADP-forming)
+  ec:6.3.4.15 biotin---[biotin carboxyl-carrier protein] ligase; birA (gene name); HLCS (gene name); HCS1 (gene name); biotin-[acetyl-CoA carboxylase] synthetase; biotin-[acetyl coenzyme A carboxylase] synthetase; acetyl coenzyme A holocarboxylase synthetase; acetyl CoA holocarboxylase synthetase; biotin:apocarboxylase ligase; Biotin holoenzyme synthetase; biotin:apo-[acetyl-CoA:carbon-dioxide ligase (ADP-forming)] ligase (AMP-forming); biotin---[acetyl-CoA-carboxylase] ligase
+  ec:6.3.5.5 carbamoyl-phosphate synthase (glutamine-hydrolysing); carbamoyl-phosphate synthetase (glutamine-hydrolysing); carbamyl phosphate synthetase (glutamine); carbamoylphosphate synthetase II; glutamine-dependent carbamyl phosphate synthetase; carbamoyl phosphate synthetase; CPS; carbon-dioxide:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating); carA (gene name); carB (gene name); CAD (gene name); hydrogen-carbonate:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating)
+
+map01110 Biosynthesis of secondary metabolites (16)
+
+  ec:1.1.1.37 malate dehydrogenase; malic dehydrogenase; L-malate dehydrogenase; NAD-L-malate dehydrogenase; malic acid dehydrogenase; NAD-dependent malic dehydrogenase; NAD-malate dehydrogenase; NAD-malic dehydrogenase; malate (NAD) dehydrogenase; NAD-dependent malate dehydrogenase; NAD-specific malate dehydrogenase; NAD-linked malate dehydrogenase; MDH; L-malate-NAD+ oxidoreductase
+  ec:1.1.1.85 3-isopropylmalate dehydrogenase; beta-isopropylmalic enzyme; beta-isopropylmalate dehydrogenase; threo-Ds-3-isopropylmalate dehydrogenase; 3-carboxy-2-hydroxy-4-methylpentanoate:NAD+ oxidoreductase
+  ec:2.2.1.6 acetolactate synthase; alpha-acetohydroxy acid synthetase; alpha-acetohydroxyacid synthase; alpha-acetolactate synthase; alpha-acetolactate synthetase; acetohydroxy acid synthetase; acetohydroxyacid synthase; acetolactate pyruvate-lyase (carboxylating); acetolactic synthetase
+  ec:2.3.1.1 amino-acid N-acetyltransferase; N-acetylglutamate synthase; AGAS; acetylglutamate acetylglutamate synthetase; acetylglutamic synthetase; amino acid acetyltransferase; N-acetyl-L-glutamate synthetase; N-acetylglutamate synthetase
+  ec:2.4.2.17 ATP phosphoribosyltransferase; phosphoribosyl-ATP pyrophosphorylase; adenosine triphosphate phosphoribosyltransferase; phosphoribosyladenosine triphosphate:pyrophosphate phosphoribosyltransferase; phosphoribosyl ATP synthetase; phosphoribosyl ATP:pyrophosphate phosphoribosyltransferase; phosphoribosyl-ATP:pyrophosphate-phosphoribosyl phosphotransferase; phosphoribosyladenosine triphosphate pyrophosphorylase; phosphoribosyladenosine triphosphate synthetase; 1-(5-phospho-D-ribosyl)-ATP:diphosphate phospho-alpha-D-ribosyl-transferase
+  ec:2.7.1.71 shikimate kinase; shikimate kinase (phosphorylating); shikimate kinase II
+  ec:2.7.4.3 adenylate kinase; myokinase; 5'-AMP-kinase; adenylic kinase; adenylokinase
+  ec:2.7.6.1 ribose-phosphate diphosphokinase; ribose-phosphate pyrophosphokinase; PRPP synthetase; phosphoribosylpyrophosphate synthetase; PPRibP synthetase; PP-ribose P synthetase; 5-phosphoribosyl-1-pyrophosphate synthetase; 5-phosphoribose pyrophosphorylase; 5-phosphoribosyl-alpha-1-pyrophosphate synthetase; phosphoribosyl-diphosphate synthetase; phosphoribosylpyrophosphate synthase; pyrophosphoribosylphosphate synthetase; ribophosphate pyrophosphokinase; ribose-5-phosphate pyrophosphokinase
+  ec:4.1.1.48 indole-3-glycerol-phosphate synthase; indoleglycerol phosphate synthetase; indoleglycerol phosphate synthase; indole-3-glycerophosphate synthase; 1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate carboxy-lyase (cyclizing)
+  ec:4.1.99.12 3,4-dihydroxy-2-butanone-4-phosphate synthase; DHBP synthase; L-3,4-dihydroxybutan-2-one-4-phosphate synthase
+  ec:4.2.1.24 porphobilinogen synthase; aminolevulinate dehydratase; delta-aminolevulinate dehydratase; delta-aminolevulinic acid dehydrase; delta-aminolevulinic acid dehydratase; aminolevulinic dehydratase; delta-aminolevulinic dehydratase; 5-levulinic acid dehydratase; 5-aminolevulinate hydro-lyase (adding 5-aminolevulinate and cyclizing); hemB (gene name)
+  ec:4.3.2.1 argininosuccinate lyase; arginosuccinase; argininosuccinic acid lyase; arginine-succinate lyase; N-(L-argininosuccinate) arginine-lyase; omega-N-(L-arginino)succinate arginine-lyase; 2-(omega-N-L-arginino)succinate arginine-lyase (fumarate-forming)
+  ec:4.3.2.10 imidazole glycerol-phosphate synthase; IGP synthase; hisFH (gene names); HIS7 (gene name)
+  ec:5.3.1.16 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase; N-(5'-phospho-D-ribosylformimino)-5-amino-1-(5''-phosphoribosyl)-4-imidazolecarboxamide isomerase; phosphoribosylformiminoaminophosphoribosylimidazolecarboxamide isomerase; N-(phosphoribosylformimino) aminophosphoribosylimidazolecarboxamide isomerase; 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide ketol-isomerase; 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide aldose-ketose-isomerase
+  ec:5.4.2.12 phosphoglycerate mutase (2,3-diphosphoglycerate-independent); cofactor independent phosphoglycerate mutase; 2,3-diphosphoglycerate-independent phosphoglycerate mutase; phosphoglycerate phosphomutase (ambiguous); phosphoglyceromutase (ambiguous); monophosphoglycerate mutase (ambiguous); monophosphoglyceromutase (ambiguous); GriP mutase (ambiguous); PGA mutase (ambiguous); iPGM; iPGAM; PGAM-i
+  ec:6.2.1.1 acetate---CoA ligase; acetyl-CoA synthetase; acetyl activating enzyme; acetate thiokinase; acyl-activating enzyme; acetyl coenzyme A synthetase; acetic thiokinase; acetyl CoA ligase; acetyl CoA synthase; acetyl-coenzyme A synthase; short chain fatty acyl-CoA synthetase; short-chain acyl-coenzyme A synthetase; ACS
+
+map01130 Biosynthesis of antibiotics (14)
+
+  ec:1.1.1.37 malate dehydrogenase; malic dehydrogenase; L-malate dehydrogenase; NAD-L-malate dehydrogenase; malic acid dehydrogenase; NAD-dependent malic dehydrogenase; NAD-malate dehydrogenase; NAD-malic dehydrogenase; malate (NAD) dehydrogenase; NAD-dependent malate dehydrogenase; NAD-specific malate dehydrogenase; NAD-linked malate dehydrogenase; MDH; L-malate-NAD+ oxidoreductase
+  ec:1.2.7.3 2-oxoglutarate synthase; 2-ketoglutarate ferredoxin oxidoreductase; 2-oxoglutarate:ferredoxin oxidoreductase; KGOR; 2-oxoglutarate ferredoxin oxidoreductase; 2-oxoglutarate:ferredoxin 2-oxidoreductase (CoA-succinylating)
+  ec:2.2.1.6 acetolactate synthase; alpha-acetohydroxy acid synthetase; alpha-acetohydroxyacid synthase; alpha-acetolactate synthase; alpha-acetolactate synthetase; acetohydroxy acid synthetase; acetohydroxyacid synthase; acetolactate pyruvate-lyase (carboxylating); acetolactic synthetase
+  ec:2.3.1.1 amino-acid N-acetyltransferase; N-acetylglutamate synthase; AGAS; acetylglutamate acetylglutamate synthetase; acetylglutamic synthetase; amino acid acetyltransferase; N-acetyl-L-glutamate synthetase; N-acetylglutamate synthetase
+  ec:2.3.1.35 glutamate N-acetyltransferase; ornithine transacetylase; alpha-N-acetyl-L-ornithine:L-glutamate N-acetyltransferase; acetylglutamate synthetase; acetylglutamate-acetylornithine transacetylase; acetylglutamic synthetase; acetylglutamic-acetylornithine transacetylase; acetylornithinase; acetylornithine glutamate acetyltransferase; glutamate acetyltransferase; N-acetyl-L-glutamate synthetase; N-acetylglutamate synthase; N-acetylglutamate synthetase; ornithine acetyltransferase; 2-N-acetyl-L-ornithine:L-glutamate N-acetyltransferase
+  ec:2.6.1.16 glutamine---fructose-6-phosphate transaminase (isomerizing); hexosephosphate aminotransferase; glucosamine-6-phosphate isomerase (glutamine-forming); glutamine-fructose-6-phosphate transaminase (isomerizing); D-fructose-6-phosphate amidotransferase; glucosaminephosphate isomerase; glucosamine 6-phosphate synthase; GlcN6P synthase
+  ec:2.6.1.39 2-aminoadipate transaminase; alpha-aminoadipate aminotransferase; 2-aminoadipate aminotransferase; 2-aminoadipic aminotransferase; glutamic-ketoadipic transaminase; glutamate-alpha-ketoadipate transaminase
+  ec:2.7.1.71 shikimate kinase; shikimate kinase (phosphorylating); shikimate kinase II
+  ec:2.7.4.3 adenylate kinase; myokinase; 5'-AMP-kinase; adenylic kinase; adenylokinase
+  ec:2.7.6.1 ribose-phosphate diphosphokinase; ribose-phosphate pyrophosphokinase; PRPP synthetase; phosphoribosylpyrophosphate synthetase; PPRibP synthetase; PP-ribose P synthetase; 5-phosphoribosyl-1-pyrophosphate synthetase; 5-phosphoribose pyrophosphorylase; 5-phosphoribosyl-alpha-1-pyrophosphate synthetase; phosphoribosyl-diphosphate synthetase; phosphoribosylpyrophosphate synthase; pyrophosphoribosylphosphate synthetase; ribophosphate pyrophosphokinase; ribose-5-phosphate pyrophosphokinase
+  ec:4.1.1.48 indole-3-glycerol-phosphate synthase; indoleglycerol phosphate synthetase; indoleglycerol phosphate synthase; indole-3-glycerophosphate synthase; 1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate carboxy-lyase (cyclizing)
+  ec:4.3.2.1 argininosuccinate lyase; arginosuccinase; argininosuccinic acid lyase; arginine-succinate lyase; N-(L-argininosuccinate) arginine-lyase; omega-N-(L-arginino)succinate arginine-lyase; 2-(omega-N-L-arginino)succinate arginine-lyase (fumarate-forming)
+  ec:5.4.2.12 phosphoglycerate mutase (2,3-diphosphoglycerate-independent); cofactor independent phosphoglycerate mutase; 2,3-diphosphoglycerate-independent phosphoglycerate mutase; phosphoglycerate phosphomutase (ambiguous); phosphoglyceromutase (ambiguous); monophosphoglycerate mutase (ambiguous); monophosphoglyceromutase (ambiguous); GriP mutase (ambiguous); PGA mutase (ambiguous); iPGM; iPGAM; PGAM-i
+  ec:6.2.1.1 acetate---CoA ligase; acetyl-CoA synthetase; acetyl activating enzyme; acetate thiokinase; acyl-activating enzyme; acetyl coenzyme A synthetase; acetic thiokinase; acetyl CoA ligase; acetyl CoA synthase; acetyl-coenzyme A synthase; short chain fatty acyl-CoA synthetase; short-chain acyl-coenzyme A synthetase; ACS
+
+map01120 Microbial metabolism in diverse environments (9)
+
+  ec:1.1.1.37 malate dehydrogenase; malic dehydrogenase; L-malate dehydrogenase; NAD-L-malate dehydrogenase; malic acid dehydrogenase; NAD-dependent malic dehydrogenase; NAD-malate dehydrogenase; NAD-malic dehydrogenase; malate (NAD) dehydrogenase; NAD-dependent malate dehydrogenase; NAD-specific malate dehydrogenase; NAD-linked malate dehydrogenase; MDH; L-malate-NAD+ oxidoreductase
+  ec:1.2.7.3 2-oxoglutarate synthase; 2-ketoglutarate ferredoxin oxidoreductase; 2-oxoglutarate:ferredoxin oxidoreductase; KGOR; 2-oxoglutarate ferredoxin oxidoreductase; 2-oxoglutarate:ferredoxin 2-oxidoreductase (CoA-succinylating)
+  ec:2.7.6.1 ribose-phosphate diphosphokinase; ribose-phosphate pyrophosphokinase; PRPP synthetase; phosphoribosylpyrophosphate synthetase; PPRibP synthetase; PP-ribose P synthetase; 5-phosphoribosyl-1-pyrophosphate synthetase; 5-phosphoribose pyrophosphorylase; 5-phosphoribosyl-alpha-1-pyrophosphate synthetase; phosphoribosyl-diphosphate synthetase; phosphoribosylpyrophosphate synthase; pyrophosphoribosylphosphate synthetase; ribophosphate pyrophosphokinase; ribose-5-phosphate pyrophosphokinase
+  ec:3.1.3.71 2-phosphosulfolactate phosphatase; (2R)-phosphosulfolactate phosphohydrolase; ComB phosphatase
+  ec:4.2.1.24 porphobilinogen synthase; aminolevulinate dehydratase; delta-aminolevulinate dehydratase; delta-aminolevulinic acid dehydrase; delta-aminolevulinic acid dehydratase; aminolevulinic dehydratase; delta-aminolevulinic dehydratase; 5-levulinic acid dehydratase; 5-aminolevulinate hydro-lyase (adding 5-aminolevulinate and cyclizing); hemB (gene name)
+  ec:5.4.2.12 phosphoglycerate mutase (2,3-diphosphoglycerate-independent); cofactor independent phosphoglycerate mutase; 2,3-diphosphoglycerate-independent phosphoglycerate mutase; phosphoglycerate phosphomutase (ambiguous); phosphoglyceromutase (ambiguous); monophosphoglycerate mutase (ambiguous); monophosphoglyceromutase (ambiguous); GriP mutase (ambiguous); PGA mutase (ambiguous); iPGM; iPGAM; PGAM-i
+  ec:6.2.1.1 acetate---CoA ligase; acetyl-CoA synthetase; acetyl activating enzyme; acetate thiokinase; acyl-activating enzyme; acetyl coenzyme A synthetase; acetic thiokinase; acetyl CoA ligase; acetyl CoA synthase; acetyl-coenzyme A synthase; short chain fatty acyl-CoA synthetase; short-chain acyl-coenzyme A synthetase; ACS
+  ec:6.3.2.31 coenzyme F420-0:L-glutamate ligase; CofE-AF; MJ0768; CofE
+  ec:6.3.2.34 coenzyme F420-1:gamma-L-glutamate ligase; F420:gamma-glutamyl ligase; CofE-AF; MJ0768; CofE
+
+map00680 Methane metabolism (7)
+
+  ec:1.1.1.337 L-2-hydroxycarboxylate dehydrogenase (NAD+); (R)-sulfolactate:NAD+ oxidoreductase; L-sulfolactate dehydrogenase; (R)-sulfolactate dehydrogenase; L-2-hydroxyacid dehydrogenase (NAD+); ComC
+  ec:1.1.1.37 malate dehydrogenase; malic dehydrogenase; L-malate dehydrogenase; NAD-L-malate dehydrogenase; malic acid dehydrogenase; NAD-dependent malic dehydrogenase; NAD-malate dehydrogenase; NAD-malic dehydrogenase; malate (NAD) dehydrogenase; NAD-dependent malate dehydrogenase; NAD-specific malate dehydrogenase; NAD-linked malate dehydrogenase; MDH; L-malate-NAD+ oxidoreductase
+  ec:3.1.3.71 2-phosphosulfolactate phosphatase; (2R)-phosphosulfolactate phosphohydrolase; ComB phosphatase
+  ec:5.4.2.12 phosphoglycerate mutase (2,3-diphosphoglycerate-independent); cofactor independent phosphoglycerate mutase; 2,3-diphosphoglycerate-independent phosphoglycerate mutase; phosphoglycerate phosphomutase (ambiguous); phosphoglyceromutase (ambiguous); monophosphoglycerate mutase (ambiguous); monophosphoglyceromutase (ambiguous); GriP mutase (ambiguous); PGA mutase (ambiguous); iPGM; iPGAM; PGAM-i
+  ec:6.2.1.1 acetate---CoA ligase; acetyl-CoA synthetase; acetyl activating enzyme; acetate thiokinase; acyl-activating enzyme; acetyl coenzyme A synthetase; acetic thiokinase; acetyl CoA ligase; acetyl CoA synthase; acetyl-coenzyme A synthase; short chain fatty acyl-CoA synthetase; short-chain acyl-coenzyme A synthetase; ACS
+  ec:6.3.2.31 coenzyme F420-0:L-glutamate ligase; CofE-AF; MJ0768; CofE
+  ec:6.3.2.34 coenzyme F420-1:gamma-L-glutamate ligase; F420:gamma-glutamyl ligase; CofE-AF; MJ0768; CofE
+
+map00250 Alanine, aspartate and glutamate metabolism (3)
+
+  ec:2.6.1.16 glutamine---fructose-6-phosphate transaminase (isomerizing); hexosephosphate aminotransferase; glucosamine-6-phosphate isomerase (glutamine-forming); glutamine-fructose-6-phosphate transaminase (isomerizing); D-fructose-6-phosphate amidotransferase; glucosaminephosphate isomerase; glucosamine 6-phosphate synthase; GlcN6P synthase
+  ec:4.3.2.1 argininosuccinate lyase; arginosuccinase; argininosuccinic acid lyase; arginine-succinate lyase; N-(L-argininosuccinate) arginine-lyase; omega-N-(L-arginino)succinate arginine-lyase; 2-(omega-N-L-arginino)succinate arginine-lyase (fumarate-forming)
+  ec:6.3.5.5 carbamoyl-phosphate synthase (glutamine-hydrolysing); carbamoyl-phosphate synthetase (glutamine-hydrolysing); carbamyl phosphate synthetase (glutamine); carbamoylphosphate synthetase II; glutamine-dependent carbamyl phosphate synthetase; carbamoyl phosphate synthetase; CPS; carbon-dioxide:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating); carA (gene name); carB (gene name); CAD (gene name); hydrogen-carbonate:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating)
+
+map00970 Aminoacyl-tRNA biosynthesis (3)
+
+  ec:6.1.1.15 proline---tRNA ligase; prolyl-tRNA synthetase; prolyl-transferRNA synthetase; prolyl-transfer ribonucleate synthetase; proline translase; prolyl-transfer ribonucleic acid synthetase; prolyl-s-RNA synthetase; prolinyl-tRNA ligase
+  ec:6.1.1.20 phenylalanine---tRNA ligase; phenylalanyl-tRNA synthetase; phenylalanyl-transfer ribonucleate synthetase; phenylalanine-tRNA synthetase; phenylalanyl-transfer RNA synthetase; phenylalanyl-tRNA ligase; phenylalanyl-transfer RNA ligase; L-phenylalanyl-tRNA synthetase; phenylalanine translase
+  ec:6.1.1.6 lysine---tRNA ligase; lysyl-tRNA synthetase; lysyl-transfer ribonucleate synthetase; lysyl-transfer RNA synthetase; L-lysine-transfer RNA ligase; lysine-tRNA synthetase; lysine translase
+
+map00220 Arginine biosynthesis (3)
+
+  ec:2.3.1.1 amino-acid N-acetyltransferase; N-acetylglutamate synthase; AGAS; acetylglutamate acetylglutamate synthetase; acetylglutamic synthetase; amino acid acetyltransferase; N-acetyl-L-glutamate synthetase; N-acetylglutamate synthetase
+  ec:2.3.1.35 glutamate N-acetyltransferase; ornithine transacetylase; alpha-N-acetyl-L-ornithine:L-glutamate N-acetyltransferase; acetylglutamate synthetase; acetylglutamate-acetylornithine transacetylase; acetylglutamic synthetase; acetylglutamic-acetylornithine transacetylase; acetylornithinase; acetylornithine glutamate acetyltransferase; glutamate acetyltransferase; N-acetyl-L-glutamate synthetase; N-acetylglutamate synthase; N-acetylglutamate synthetase; ornithine acetyltransferase; 2-N-acetyl-L-ornithine:L-glutamate N-acetyltransferase
+  ec:4.3.2.1 argininosuccinate lyase; arginosuccinase; argininosuccinic acid lyase; arginine-succinate lyase; N-(L-argininosuccinate) arginine-lyase; omega-N-(L-arginino)succinate arginine-lyase; 2-(omega-N-L-arginino)succinate arginine-lyase (fumarate-forming)
+
+map00720 Carbon fixation pathways in prokaryotes (3)
+
+  ec:1.1.1.37 malate dehydrogenase; malic dehydrogenase; L-malate dehydrogenase; NAD-L-malate dehydrogenase; malic acid dehydrogenase; NAD-dependent malic dehydrogenase; NAD-malate dehydrogenase; NAD-malic dehydrogenase; malate (NAD) dehydrogenase; NAD-dependent malate dehydrogenase; NAD-specific malate dehydrogenase; NAD-linked malate dehydrogenase; MDH; L-malate-NAD+ oxidoreductase
+  ec:1.2.7.3 2-oxoglutarate synthase; 2-ketoglutarate ferredoxin oxidoreductase; 2-oxoglutarate:ferredoxin oxidoreductase; KGOR; 2-oxoglutarate ferredoxin oxidoreductase; 2-oxoglutarate:ferredoxin 2-oxidoreductase (CoA-succinylating)
+  ec:6.2.1.1 acetate---CoA ligase; acetyl-CoA synthetase; acetyl activating enzyme; acetate thiokinase; acyl-activating enzyme; acetyl coenzyme A synthetase; acetic thiokinase; acetyl CoA ligase; acetyl CoA synthase; acetyl-coenzyme A synthase; short chain fatty acyl-CoA synthetase; short-chain acyl-coenzyme A synthetase; ACS
+
+map00340 Histidine metabolism (3)
+
+  ec:2.4.2.17 ATP phosphoribosyltransferase; phosphoribosyl-ATP pyrophosphorylase; adenosine triphosphate phosphoribosyltransferase; phosphoribosyladenosine triphosphate:pyrophosphate phosphoribosyltransferase; phosphoribosyl ATP synthetase; phosphoribosyl ATP:pyrophosphate phosphoribosyltransferase; phosphoribosyl-ATP:pyrophosphate-phosphoribosyl phosphotransferase; phosphoribosyladenosine triphosphate pyrophosphorylase; phosphoribosyladenosine triphosphate synthetase; 1-(5-phospho-D-ribosyl)-ATP:diphosphate phospho-alpha-D-ribosyl-transferase
+  ec:4.3.2.10 imidazole glycerol-phosphate synthase; IGP synthase; hisFH (gene names); HIS7 (gene name)
+  ec:5.3.1.16 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase; N-(5'-phospho-D-ribosylformimino)-5-amino-1-(5''-phosphoribosyl)-4-imidazolecarboxamide isomerase; phosphoribosylformiminoaminophosphoribosylimidazolecarboxamide isomerase; N-(phosphoribosylformimino) aminophosphoribosylimidazolecarboxamide isomerase; 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide ketol-isomerase; 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide aldose-ketose-isomerase
+
+map00240 Pyrimidine metabolism (3)
+
+  ec:2.7.4.25 (d)CMP kinase; prokaryotic cytidylate kinase; deoxycytidylate kinase; dCMP kinase; deoxycytidine monophosphokinase
+  ec:3.5.4.30 dCTP deaminase (dUMP-forming)
+  ec:6.3.5.5 carbamoyl-phosphate synthase (glutamine-hydrolysing); carbamoyl-phosphate synthetase (glutamine-hydrolysing); carbamyl phosphate synthetase (glutamine); carbamoylphosphate synthetase II; glutamine-dependent carbamyl phosphate synthetase; carbamoyl phosphate synthetase; CPS; carbon-dioxide:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating); carA (gene name); carB (gene name); CAD (gene name); hydrogen-carbonate:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating)
+
+map00730 Thiamine metabolism (3)
+
+  ec:2.7.4.3 adenylate kinase; myokinase; 5'-AMP-kinase; adenylic kinase; adenylokinase
+  ec:2.7.4.7 phosphooxymethylpyrimidine kinase; hydroxymethylpyrimidine phosphokinase; ATP:4-amino-2-methyl-5-phosphooxymethylpyrimidine phosphotransferase; ATP:(4-amino-2-methylpyrimidin-5-yl)methyl-phosphate phosphotransferase; phosphomethylpyrimidine kinase
+  ec:2.8.1.7 cysteine desulfurase; IscS; NIFS; NifS; SufS; cysteine desulfurylase
+
+map00770 Pantothenate and CoA biosynthesis (3)
+
+  ec:2.2.1.6 acetolactate synthase; alpha-acetohydroxy acid synthetase; alpha-acetohydroxyacid synthase; alpha-acetolactate synthase; alpha-acetolactate synthetase; acetohydroxy acid synthetase; acetohydroxyacid synthase; acetolactate pyruvate-lyase (carboxylating); acetolactic synthetase
+  ec:4.1.1.36 phosphopantothenoylcysteine decarboxylase; 4-phosphopantotheoylcysteine decarboxylase; 4-phosphopantothenoyl-L-cysteine decarboxylase; PPC-decarboxylase; N-[(R)-4'-phosphopantothenoyl]-L-cysteine carboxy-lyase
+  ec:6.3.2.5 phosphopantothenate---cysteine ligase (CTP); phosphopantothenoylcysteine synthetase (ambiguous); phosphopantothenate---cysteine ligase (ambiguous)
+
+map00290 Valine, leucine and isoleucine biosynthesis (2)
+
+  ec:1.1.1.85 3-isopropylmalate dehydrogenase; beta-isopropylmalic enzyme; beta-isopropylmalate dehydrogenase; threo-Ds-3-isopropylmalate dehydrogenase; 3-carboxy-2-hydroxy-4-methylpentanoate:NAD+ oxidoreductase
+  ec:2.2.1.6 acetolactate synthase; alpha-acetohydroxy acid synthetase; alpha-acetohydroxyacid synthase; alpha-acetolactate synthase; alpha-acetolactate synthetase; acetohydroxy acid synthetase; acetohydroxyacid synthase; acetolactate pyruvate-lyase (carboxylating); acetolactic synthetase
+
+map00010 Glycolysis / Gluconeogenesis (2)
+
+  ec:5.4.2.12 phosphoglycerate mutase (2,3-diphosphoglycerate-independent); cofactor independent phosphoglycerate mutase; 2,3-diphosphoglycerate-independent phosphoglycerate mutase; phosphoglycerate phosphomutase (ambiguous); phosphoglyceromutase (ambiguous); monophosphoglycerate mutase (ambiguous); monophosphoglyceromutase (ambiguous); GriP mutase (ambiguous); PGA mutase (ambiguous); iPGM; iPGAM; PGAM-i
+  ec:6.2.1.1 acetate---CoA ligase; acetyl-CoA synthetase; acetyl activating enzyme; acetate thiokinase; acyl-activating enzyme; acetyl coenzyme A synthetase; acetic thiokinase; acetyl CoA ligase; acetyl CoA synthase; acetyl-coenzyme A synthase; short chain fatty acyl-CoA synthetase; short-chain acyl-coenzyme A synthetase; ACS
+
+map00660 C5-Branched dibasic acid metabolism (2)
+
+  ec:1.1.1.85 3-isopropylmalate dehydrogenase; beta-isopropylmalic enzyme; beta-isopropylmalate dehydrogenase; threo-Ds-3-isopropylmalate dehydrogenase; 3-carboxy-2-hydroxy-4-methylpentanoate:NAD+ oxidoreductase
+  ec:2.2.1.6 acetolactate synthase; alpha-acetohydroxy acid synthetase; alpha-acetohydroxyacid synthase; alpha-acetolactate synthase; alpha-acetolactate synthetase; acetohydroxy acid synthetase; acetohydroxyacid synthase; acetolactate pyruvate-lyase (carboxylating); acetolactic synthetase
+
+map00400 Phenylalanine, tyrosine and tryptophan biosynthesis (2)
+
+  ec:2.7.1.71 shikimate kinase; shikimate kinase (phosphorylating); shikimate kinase II
+  ec:4.1.1.48 indole-3-glycerol-phosphate synthase; indoleglycerol phosphate synthetase; indoleglycerol phosphate synthase; indole-3-glycerophosphate synthase; 1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate carboxy-lyase (cyclizing)
+
+map00620 Pyruvate metabolism (2)
+
+  ec:1.1.1.37 malate dehydrogenase; malic dehydrogenase; L-malate dehydrogenase; NAD-L-malate dehydrogenase; malic acid dehydrogenase; NAD-dependent malic dehydrogenase; NAD-malate dehydrogenase; NAD-malic dehydrogenase; malate (NAD) dehydrogenase; NAD-dependent malate dehydrogenase; NAD-specific malate dehydrogenase; NAD-linked malate dehydrogenase; MDH; L-malate-NAD+ oxidoreductase
+  ec:6.2.1.1 acetate---CoA ligase; acetyl-CoA synthetase; acetyl activating enzyme; acetate thiokinase; acyl-activating enzyme; acetyl coenzyme A synthetase; acetic thiokinase; acetyl CoA ligase; acetyl CoA synthase; acetyl-coenzyme A synthase; short chain fatty acyl-CoA synthetase; short-chain acyl-coenzyme A synthetase; ACS
+
+map00630 Glyoxylate and dicarboxylate metabolism (2)
+
+  ec:1.1.1.37 malate dehydrogenase; malic dehydrogenase; L-malate dehydrogenase; NAD-L-malate dehydrogenase; malic acid dehydrogenase; NAD-dependent malic dehydrogenase; NAD-malate dehydrogenase; NAD-malic dehydrogenase; malate (NAD) dehydrogenase; NAD-dependent malate dehydrogenase; NAD-specific malate dehydrogenase; NAD-linked malate dehydrogenase; MDH; L-malate-NAD+ oxidoreductase
+  ec:6.2.1.1 acetate---CoA ligase; acetyl-CoA synthetase; acetyl activating enzyme; acetate thiokinase; acyl-activating enzyme; acetyl coenzyme A synthetase; acetic thiokinase; acetyl CoA ligase; acetyl CoA synthase; acetyl-coenzyme A synthase; short chain fatty acyl-CoA synthetase; short-chain acyl-coenzyme A synthetase; ACS
+
+map00230 Purine metabolism (2)
+
+  ec:2.7.4.3 adenylate kinase; myokinase; 5'-AMP-kinase; adenylic kinase; adenylokinase
+  ec:2.7.6.1 ribose-phosphate diphosphokinase; ribose-phosphate pyrophosphokinase; PRPP synthetase; phosphoribosylpyrophosphate synthetase; PPRibP synthetase; PP-ribose P synthetase; 5-phosphoribosyl-1-pyrophosphate synthetase; 5-phosphoribose pyrophosphorylase; 5-phosphoribosyl-alpha-1-pyrophosphate synthetase; phosphoribosyl-diphosphate synthetase; phosphoribosylpyrophosphate synthase; pyrophosphoribosylphosphate synthetase; ribophosphate pyrophosphokinase; ribose-5-phosphate pyrophosphokinase
+
+map00020 Citrate cycle (TCA cycle) (2)
+
+  ec:1.1.1.37 malate dehydrogenase; malic dehydrogenase; L-malate dehydrogenase; NAD-L-malate dehydrogenase; malic acid dehydrogenase; NAD-dependent malic dehydrogenase; NAD-malate dehydrogenase; NAD-malic dehydrogenase; malate (NAD) dehydrogenase; NAD-dependent malate dehydrogenase; NAD-specific malate dehydrogenase; NAD-linked malate dehydrogenase; MDH; L-malate-NAD+ oxidoreductase
+  ec:1.2.7.3 2-oxoglutarate synthase; 2-ketoglutarate ferredoxin oxidoreductase; 2-oxoglutarate:ferredoxin oxidoreductase; KGOR; 2-oxoglutarate ferredoxin oxidoreductase; 2-oxoglutarate:ferredoxin 2-oxidoreductase (CoA-succinylating)
+
+map00760 Nicotinate and nicotinamide metabolism (2)
+
+  ec:2.4.2.19 nicotinate-nucleotide diphosphorylase (carboxylating); quinolinate phosphoribosyltransferase (decarboxylating); quinolinic acid phosphoribosyltransferase; QAPRTase; NAD+ pyrophosphorylase; nicotinate mononucleotide pyrophosphorylase (carboxylating); quinolinic phosphoribosyltransferase
+  ec:6.3.1.5 NAD+ synthase; NAD synthetase; NAD synthase; nicotinamide adenine dinucleotide synthetase; diphosphopyridine nucleotide synthetase
+
+map00270 Cysteine and methionine metabolism (2)
+
+  ec:1.1.1.37 malate dehydrogenase; malic dehydrogenase; L-malate dehydrogenase; NAD-L-malate dehydrogenase; malic acid dehydrogenase; NAD-dependent malic dehydrogenase; NAD-malate dehydrogenase; NAD-malic dehydrogenase; malate (NAD) dehydrogenase; NAD-dependent malate dehydrogenase; NAD-specific malate dehydrogenase; NAD-linked malate dehydrogenase; MDH; L-malate-NAD+ oxidoreductase
+  ec:2.4.2.44 S-methyl-5'-thioinosine phosphorylase; MTIP; MTI phosphorylase; methylthioinosine phosphorylase
+
+map00300 Lysine biosynthesis (1)
+
+  ec:2.6.1.39 2-aminoadipate transaminase; alpha-aminoadipate aminotransferase; 2-aminoadipate aminotransferase; 2-aminoadipic aminotransferase; glutamic-ketoadipic transaminase; glutamate-alpha-ketoadipate transaminase
+
+map00550 Peptidoglycan biosynthesis (1)
+
+  ec:6.3.2.9 UDP-N-acetylmuramoyl-L-alanine---D-glutamate ligase; MurD synthetase; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase; uridine diphospho-N-acetylmuramoylalanyl-D-glutamate synthetase; D-glutamate-adding enzyme; D-glutamate ligase; UDP-Mur-NAC-L-Ala:D-Glu ligase; UDP-N-acetylmuramoyl-L-alanine:glutamate ligase (ADP-forming); UDP-N-acetylmuramoylalanine---D-glutamate ligase; UDP-N-acetylmuramoyl-L-alanine:D-glutamate ligase (ADP-forming)
+
+map00030 Pentose phosphate pathway (1)
+
+  ec:2.7.6.1 ribose-phosphate diphosphokinase; ribose-phosphate pyrophosphokinase; PRPP synthetase; phosphoribosylpyrophosphate synthetase; PPRibP synthetase; PP-ribose P synthetase; 5-phosphoribosyl-1-pyrophosphate synthetase; 5-phosphoribose pyrophosphorylase; 5-phosphoribosyl-alpha-1-pyrophosphate synthetase; phosphoribosyl-diphosphate synthetase; phosphoribosylpyrophosphate synthase; pyrophosphoribosylphosphate synthetase; ribophosphate pyrophosphokinase; ribose-5-phosphate pyrophosphokinase
+
+map00740 Riboflavin metabolism (1)
+
+  ec:4.1.99.12 3,4-dihydroxy-2-butanone-4-phosphate synthase; DHBP synthase; L-3,4-dihydroxybutan-2-one-4-phosphate synthase
+
+map00780 Biotin metabolism (1)
+
+  ec:6.3.4.15 biotin---[biotin carboxyl-carrier protein] ligase; birA (gene name); HLCS (gene name); HCS1 (gene name); biotin-[acetyl-CoA carboxylase] synthetase; biotin-[acetyl coenzyme A carboxylase] synthetase; acetyl coenzyme A holocarboxylase synthetase; acetyl CoA holocarboxylase synthetase; biotin:apocarboxylase ligase; Biotin holoenzyme synthetase; biotin:apo-[acetyl-CoA:carbon-dioxide ligase (ADP-forming)] ligase (AMP-forming); biotin---[acetyl-CoA-carboxylase] ligase
+
+map00520 Amino sugar and nucleotide sugar metabolism (1)
+
+  ec:2.6.1.16 glutamine---fructose-6-phosphate transaminase (isomerizing); hexosephosphate aminotransferase; glucosamine-6-phosphate isomerase (glutamine-forming); glutamine-fructose-6-phosphate transaminase (isomerizing); D-fructose-6-phosphate amidotransferase; glucosaminephosphate isomerase; glucosamine 6-phosphate synthase; GlcN6P synthase
+
+map00640 Propanoate metabolism (1)
+
+  ec:6.2.1.1 acetate---CoA ligase; acetyl-CoA synthetase; acetyl activating enzyme; acetate thiokinase; acyl-activating enzyme; acetyl coenzyme A synthetase; acetic thiokinase; acetyl CoA ligase; acetyl CoA synthase; acetyl-coenzyme A synthase; short chain fatty acyl-CoA synthetase; short-chain acyl-coenzyme A synthetase; ACS
+
+map00471 D-Glutamine and D-glutamate metabolism (1)
+
+  ec:6.3.2.9 UDP-N-acetylmuramoyl-L-alanine---D-glutamate ligase; MurD synthetase; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase; uridine diphospho-N-acetylmuramoylalanyl-D-glutamate synthetase; D-glutamate-adding enzyme; D-glutamate ligase; UDP-Mur-NAC-L-Ala:D-Glu ligase; UDP-N-acetylmuramoyl-L-alanine:glutamate ligase (ADP-forming); UDP-N-acetylmuramoylalanine---D-glutamate ligase; UDP-N-acetylmuramoyl-L-alanine:D-glutamate ligase (ADP-forming)
+
+map00710 Carbon fixation in photosynthetic organisms (1)
+
+  ec:1.1.1.37 malate dehydrogenase; malic dehydrogenase; L-malate dehydrogenase; NAD-L-malate dehydrogenase; malic acid dehydrogenase; NAD-dependent malic dehydrogenase; NAD-malate dehydrogenase; NAD-malic dehydrogenase; malate (NAD) dehydrogenase; NAD-dependent malate dehydrogenase; NAD-specific malate dehydrogenase; NAD-linked malate dehydrogenase; MDH; L-malate-NAD+ oxidoreductase
+
+map00310 Lysine degradation (1)
+
+  ec:2.6.1.39 2-aminoadipate transaminase; alpha-aminoadipate aminotransferase; 2-aminoadipate aminotransferase; 2-aminoadipic aminotransferase; glutamic-ketoadipic transaminase; glutamate-alpha-ketoadipate transaminase
+
+map00860 Porphyrin and chlorophyll metabolism (1)
+
+  ec:4.2.1.24 porphobilinogen synthase; aminolevulinate dehydratase; delta-aminolevulinate dehydratase; delta-aminolevulinic acid dehydrase; delta-aminolevulinic acid dehydratase; aminolevulinic dehydratase; delta-aminolevulinic dehydratase; 5-levulinic acid dehydratase; 5-aminolevulinate hydro-lyase (adding 5-aminolevulinate and cyclizing); hemB (gene name)
+
+map00650 Butanoate metabolism (1)
+
+  ec:2.2.1.6 acetolactate synthase; alpha-acetohydroxy acid synthetase; alpha-acetohydroxyacid synthase; alpha-acetolactate synthase; alpha-acetolactate synthetase; acetohydroxy acid synthetase; acetohydroxyacid synthase; acetolactate pyruvate-lyase (carboxylating); acetolactic synthetase
+
+map00260 Glycine, serine and threonine metabolism (1)
+
+  ec:5.4.2.12 phosphoglycerate mutase (2,3-diphosphoglycerate-independent); cofactor independent phosphoglycerate mutase; 2,3-diphosphoglycerate-independent phosphoglycerate mutase; phosphoglycerate phosphomutase (ambiguous); phosphoglyceromutase (ambiguous); monophosphoglycerate mutase (ambiguous); monophosphoglyceromutase (ambiguous); GriP mutase (ambiguous); PGA mutase (ambiguous); iPGM; iPGAM; PGAM-i
+
+map00910 Nitrogen metabolism (1)
+
+  ec:1.7.1.4 nitrite reductase [NAD(P)H]; nitrite reductase (reduced nicotinamide adenine dinucleotide (phosphate)); assimilatory nitrite reductase (ambiguous); nitrite reductase [NAD(P)H2]; NAD(P)H2:nitrite oxidoreductase; nit-6 (gene name)
+
+map00790 Folate biosynthesis (1)
+
+  ec:2.4.2.54 beta-ribofuranosylphenol 5'-phosphate synthase; beta-RFAP synthase (incorrect); beta-RFA-P synthase (incorrect); AF2089 (gene name); MJ1427 (gene name); beta-ribofuranosylhydroxybenzene 5'-phosphate synthase; 4-(beta-D-ribofuranosyl)aminobenzene 5'-phosphate synthase (incorrect); beta-ribofuranosylaminobenzene 5'-phosphate synthase (incorrect); 5-phospho-alpha-D-ribose 1-diphosphate:4-aminobenzoate 5-phospho-beta-D-ribofuranosyltransferase (decarboxylating) (incorrect)

@@ -1,0 +1,424 @@
+KEGG Mapper Search Result
+Pathway (53)
+Brite (0)
+Module (67)
+Sort by the pathway list
+Show matched objects
+map01100 Metabolic pathways (55)
+
+  ec:1.1.1.205 IMP dehydrogenase; inosine-5'-phosphate dehydrogenase; inosinic acid dehydrogenase; inosinate dehydrogenase; inosine 5'-monophosphate dehydrogenase; inosine monophosphate dehydrogenase; IMP oxidoreductase; inosine monophosphate oxidoreductase
+  ec:1.1.1.3 homoserine dehydrogenase; HSDH; HSD
+  ec:1.1.1.34 hydroxymethylglutaryl-CoA reductase (NADPH); hydroxymethylglutaryl coenzyme A reductase (reduced nicotinamide adenine dinucleotide phosphate); 3-hydroxy-3-methylglutaryl-CoA reductase; beta-hydroxy-beta-methylglutaryl coenzyme A reductase; hydroxymethylglutaryl CoA reductase (NADPH); S-3-hydroxy-3-methylglutaryl-CoA reductase; NADPH-hydroxymethylglutaryl-CoA reductase; HMGCoA reductase-mevalonate:NADP-oxidoreductase (acetylating-CoA); 3-hydroxy-3-methylglutaryl CoA reductase (NADPH); hydroxymethylglutaryl-CoA reductase (NADPH2)
+  ec:1.1.1.86 ketol-acid reductoisomerase (NADP+); dihydroxyisovalerate dehydrogenase (isomerizing); acetohydroxy acid isomeroreductase; ketol acid reductoisomerase; alpha-keto-beta-hydroxylacyl reductoisomerase; 2-hydroxy-3-keto acid reductoisomerase; acetohydroxy acid reductoisomerase; acetolactate reductoisomerase; dihydroxyisovalerate (isomerizing) dehydrogenase; isomeroreductase; reductoisomerase; ketol-acid reductoisomerase; (R)-2,3-dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)
+  ec:1.1.1.95 phosphoglycerate dehydrogenase; PHGDH (gene name); D-3-phosphoglycerate:NAD+ oxidoreductase; alpha-phosphoglycerate dehydrogenase; 3-phosphoglycerate dehydrogenase; 3-phosphoglyceric acid dehydrogenase; D-3-phosphoglycerate dehydrogenase; glycerate 3-phosphate dehydrogenase; glycerate-1,3-phosphate dehydrogenase; phosphoglycerate oxidoreductase; phosphoglyceric acid dehydrogenase; SerA; 3-phosphoglycerate:NAD+ 2-oxidoreductase; SerA 3PG dehydrogenase; 3PHP reductase
+  ec:1.11.1.21 catalase-peroxidase; katG (gene name)
+  ec:1.12.98.1 coenzyme F420 hydrogenase; 8-hydroxy-5-deazaflavin-reducing hydrogenase; F420-reducing hydrogenase; coenzyme F420-dependent hydrogenase
+  ec:1.17.1.8 4-hydroxy-tetrahydrodipicolinate reductase; dihydrodipicolinate reductase (incorrect); dihydrodipicolinic acid reductase (incorrect); 2,3,4,5-tetrahydrodipicolinate:NAD(P)+ oxidoreductase (incorrect); dapB (gene name)
+  ec:1.2.1.11 aspartate-semialdehyde dehydrogenase; aspartate semialdehyde dehydrogenase; aspartic semialdehyde dehydrogenase; L-aspartate-beta-semialdehyde:NADP+ oxidoreductase (phosphorylating); aspartic beta-semialdehyde dehydrogenase; ASA dehydrogenase
+  ec:1.2.1.59 glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating); triosephosphate dehydrogenase (NAD(P)); glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) (phosphorylating)
+  ec:1.2.7.1 pyruvate synthase; pyruvate oxidoreductase; pyruvate synthetase; pyruvate:ferredoxin oxidoreductase; pyruvic-ferredoxin oxidoreductase; 2-oxobutyrate synthase; alpha-ketobutyrate-ferredoxin oxidoreductase; 2-ketobutyrate synthase; alpha-ketobutyrate synthase; 2-oxobutyrate-ferredoxin oxidoreductase; 2-oxobutanoate:ferredoxin 2-oxidoreductase (CoA-propionylating); 2-oxobutanoate:ferredoxin 2-oxidoreductase (CoA-propanoylating)
+  ec:1.2.7.3 2-oxoglutarate synthase; 2-ketoglutarate ferredoxin oxidoreductase; 2-oxoglutarate:ferredoxin oxidoreductase; KGOR; 2-oxoglutarate ferredoxin oxidoreductase; 2-oxoglutarate:ferredoxin 2-oxidoreductase (CoA-succinylating)
+  ec:1.4.1.1 alanine dehydrogenase; AlaDH; L-alanine dehydrogenase; NAD+-linked alanine dehydrogenase; alpha-alanine dehydrogenase; NAD+-dependent alanine dehydrogenase; alanine oxidoreductase; NADH-dependent alanine dehydrogenase
+  ec:1.4.1.21 aspartate dehydrogenase; NAD-dependent aspartate dehydrogenase; NADH2-dependent aspartate dehydrogenase; NADP+-dependent aspartate dehydrogenase
+  ec:1.4.1.24 3-dehydroquinate synthase II; DHQ synthase II; MJ1249 (gene name); aroB' (gene name)
+  ec:1.5.98.1 methylenetetrahydromethanopterin dehydrogenase; N5,N10-methylenetetrahydromethanopterin dehydrogenase; 5,10-methylenetetrahydromethanopterin dehydrogenase
+  ec:1.5.98.2 5,10-methylenetetrahydromethanopterin reductase; 5,10-methylenetetrahydromethanopterin cyclohydrolase; N5,N10-methylenetetrahydromethanopterin reductase; methylene-H4MPT reductase; coenzyme F420-dependent N5,N10-methenyltetrahydromethanopterin reductase; N5,N10-methylenetetrahydromethanopterin:coenzyme-F420 oxidoreductase
+  ec:1.7.99.1 hydroxylamine reductase; hydroxylamine (acceptor) reductase; ammonia:(acceptor) oxidoreductase
+  ec:1.8.98.1 dihydromethanophenazine:CoB-CoM heterodisulfide reductase; hdrDE (gene names); CoB---CoM heterodisulfide reductase (ambiguous); heterodisulfide reductase (ambiguous); coenzyme B:coenzyme M:methanophenazine oxidoreductase
+  ec:2.1.1.86 tetrahydromethanopterin S-methyltransferase; tetrahydromethanopterin methyltransferase; mtrA-H (gene names); cmtA (gene name); N5-methyltetrahydromethanopterin---coenzyme M methyltransferase; 5-methyl-5,6,7,8-tetrahydromethanopterin:2-mercaptoethanesulfonate 2-methyltransferase
+  ec:2.1.3.2 aspartate carbamoyltransferase; carbamylaspartotranskinase; aspartate transcarbamylase; aspartate carbamyltransferase; aspartic acid transcarbamoylase; aspartic carbamyltransferase; aspartic transcarbamylase; carbamylaspartotranskinase; L-aspartate transcarbamoylase; L-aspartate transcarbamylase; carbamoylaspartotranskinase; aspartate transcarbamylase; aspartate transcarbamoylase; ATCase
+  ec:2.3.1.101 formylmethanofuran---tetrahydromethanopterin N-formyltransferase; formylmethanofuran-tetrahydromethanopterin formyltransferase; formylmethanofuran:tetrahydromethanopterin formyltransferase; N-formylmethanofuran(CHO-MFR):tetrahydromethanopterin(H4MPT) formyltransferase; FTR; formylmethanofuran:5,6,7,8-tetrahydromethanopterin N5-formyltransferase
+  ec:2.3.1.169 CO-methylating acetyl-CoA synthase
+  ec:2.4.2.10 orotate phosphoribosyltransferase; orotidylic acid phosphorylase; orotidine-5'-phosphate pyrophosphorylase; OPRTase; orotate phosphoribosyl pyrophosphate transferase; orotic acid phosphoribosyltransferase; orotidine 5'-monophosphate pyrophosphorylase; orotidine monophosphate pyrophosphorylase; orotidine phosphoribosyltransferase; orotidylate phosphoribosyltransferase; orotidylate pyrophosphorylase; orotidylic acid pyrophosphorylase; orotidylic phosphorylase; orotidylic pyrophosphorylase
+  ec:2.4.2.59 sulfide-dependent adenosine diphosphate thiazole synthase; Thi4 (ambiguous)
+  ec:2.5.1.47 cysteine synthase; O-acetyl-L-serine sulfhydrylase; O-acetyl-L-serine sulfohydrolase; O-acetylserine (thiol)-lyase; O-acetylserine (thiol)-lyase A; O-acetylserine sulfhydrylase; O3-acetyl-L-serine acetate-lyase (adding hydrogen-sulfide); acetylserine sulfhydrylase; cysteine synthetase; S-sulfocysteine synthase; 3-O-acetyl-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase; O3-acetyl-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase
+  ec:2.5.1.49 O-acetylhomoserine aminocarboxypropyltransferase; O-acetyl-L-homoserine acetate-lyase (adding methanethiol); O-acetyl-L-homoserine sulfhydrolase; O-acetylhomoserine (thiol)-lyase; O-acetylhomoserine sulfhydrolase; methionine synthase (misleading)
+  ec:2.5.1.6 methionine adenosyltransferase; adenosylmethionine synthetase; ATP-methionine adenosyltransferase; methionine S-adenosyltransferase; methionine-activating enzyme; S-adenosyl-L-methionine synthetase; S-adenosylmethionine synthase; S-adenosylmethionine synthetase; AdoMet synthetase
+  ec:2.6.1.42 branched-chain-amino-acid transaminase; transaminase B; branched-chain amino acid aminotransferase; branched-chain amino acid-glutamate transaminase; branched-chain aminotransferase; L-branched chain amino acid aminotransferase; glutamate-branched-chain amino acid transaminase
+  ec:2.6.1.83 LL-diaminopimelate aminotransferase; LL-diaminopimelate transaminase; LL-DAP aminotransferase; LL-DAP-AT
+  ec:2.7.2.3 phosphoglycerate kinase; PGK; 3-PGK; ATP-3-phospho-D-glycerate-1-phosphotransferase; ATP:D-3-phosphoglycerate 1-phosphotransferase; 3-phosphoglycerate kinase; 3-phosphoglycerate phosphokinase; 3-phosphoglyceric acid kinase; 3-phosphoglyceric acid phosphokinase; 3-phosphoglyceric kinase; glycerate 3-phosphate kinase; glycerophosphate kinase; phosphoglyceric acid kinase; phosphoglyceric kinase; phosphoglycerokinase
+  ec:2.7.2.4 aspartate kinase; aspartokinase; AK; beta-aspartokinase; aspartic kinase
+  ec:2.7.2.8 acetylglutamate kinase; N-acetylglutamate 5-phosphotransferase; acetylglutamate phosphokinase; N-acetylglutamate phosphokinase; N-acetylglutamate kinase; N-acetylglutamic 5-phosphotransferase
+  ec:2.7.4.22 UMP kinase; uridylate kinase; UMPK; uridine monophosphate kinase; PyrH; UMP-kinase; SmbA
+  ec:2.8.4.1 coenzyme-B sulfoethylthiotransferase; methyl-CoM reductase; methyl coenzyme M reductase
+  ec:3.1.3.11 fructose-bisphosphatase; hexose diphosphatase; FBPase; fructose 1,6-diphosphatase; fructose 1,6-diphosphate phosphatase; D-fructose 1,6-diphosphatase; fructose 1,6-bisphosphatase; fructose diphosphatase; fructose diphosphate phosphatase; fructose bisphosphate phosphatase; fructose 1,6-bisphosphate 1-phosphatase; fructose 1,6-bisphosphate phosphatase; hexose bisphosphatase; D-fructose-1,6-bisphosphate phosphatase
+  ec:3.1.3.3 phosphoserine phosphatase
+  ec:3.5.1.24 choloylglycine hydrolase; glycocholase; bile salt hydrolase; choloyltaurine hydrolase; 3alpha,7alpha,12alpha-trihydroxy-5beta-cholan-24-oylglycine amidohydrolase
+  ec:3.5.4.10 IMP cyclohydrolase; inosinicase; inosinate cyclohydrolase; IMP 1,2-hydrolase (decyclizing)
+  ec:3.5.4.27 methenyltetrahydromethanopterin cyclohydrolase; 5,10-methenyltetrahydromethanopterin cyclohydrolase; N5,N10-methenyltetrahydromethanopterin cyclohydrolase; methenyl-H4MPT cyclohydrolase; 5,10-methenyltetrahydromethanopterin 10-hydrolase (decyclizing)
+  ec:3.5.4.29 GTP cyclohydrolase IIa
+  ec:4.1.2.13 fructose-bisphosphate aldolase; aldolase; fructose-1,6-bisphosphate triosephosphate-lyase; fructose diphosphate aldolase; diphosphofructose aldolase; fructose 1,6-diphosphate aldolase; ketose 1-phosphate aldolase; phosphofructoaldolase; zymohexase; fructoaldolase; fructose 1-phosphate aldolase; fructose 1-monophosphate aldolase; 1,6-diphosphofructose aldolase; SMALDO; D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase
+  ec:4.1.2.43 3-hexulose-6-phosphate synthase; D-arabino-3-hexulose 6-phosphate formaldehyde-lyase; 3-hexulosephosphate synthase; 3-hexulose phosphate synthase; HPS
+  ec:4.2.1.147 5,6,7,8-tetrahydromethanopterin hydro-lyase; formaldehyde-activating enzyme
+  ec:4.2.1.46 dTDP-glucose 4,6-dehydratase; thymidine diphosphoglucose oxidoreductase; TDP-glucose oxidoreductase; dTDP-glucose 4,6-hydro-lyase; dTDP-glucose 4,6-hydro-lyase (dTDP-4-dehydro-6-deoxy-alpha-D-glucose-forming)
+  ec:4.2.3.1 threonine synthase; threonine synthetase; O-phospho-L-homoserine phospho-lyase (adding water)
+  ec:4.2.3.153 (5-formylfuran-3-yl)methyl phosphate synthase; mfnB (gene name); 4-HFC-P synthase; 4-(hydroxymethyl)-2-furaldehyde phosphate synthase
+  ec:4.4.1.19 phosphosulfolactate synthase; (2R)-phospho-3-sulfolactate synthase; (2R)-O-phospho-3-sulfolactate sulfo-lyase
+  ec:5.1.3.2 UDP-glucose 4-epimerase; UDP-galactose 4-epimerase; uridine diphosphoglucose epimerase; galactowaldenase; UDPG-4-epimerase; uridine diphosphate galactose 4-epimerase; uridine diphospho-galactose-4-epimerase; UDP-glucose epimerase; 4-epimerase; uridine diphosphoglucose 4-epimerase; uridine diphosphate glucose 4-epimerase; UDP-D-galactose 4-epimerase
+  ec:5.3.1.1 triose-phosphate isomerase; phosphotriose isomerase; triose phosphoisomerase; triose phosphate mutase; D-glyceraldehyde-3-phosphate ketol-isomerase
+  ec:5.3.3.2 isopentenyl-diphosphate Delta-isomerase; isopentenylpyrophosphate Delta-isomerase; methylbutenylpyrophosphate isomerase; isopentenylpyrophosphate isomerase
+  ec:6.2.1.1 acetate---CoA ligase; acetyl-CoA synthetase; acetyl activating enzyme; acetate thiokinase; acyl-activating enzyme; acetyl coenzyme A synthetase; acetic thiokinase; acetyl CoA ligase; acetyl CoA synthase; acetyl-coenzyme A synthase; short chain fatty acyl-CoA synthetase; short-chain acyl-coenzyme A synthetase; ACS
+  ec:6.2.1.5 succinate---CoA ligase (ADP-forming); succinyl-CoA synthetase (ADP-forming); succinic thiokinase; succinate thiokinase; succinyl-CoA synthetase; succinyl coenzyme A synthetase (adenosine diphosphate-forming); succinyl coenzyme A synthetase; A-STK (adenin nucleotide-linked succinate thiokinase); STK; A-SCS
+  ec:6.3.1.2 glutamine synthetase; glutamate---ammonia ligase; glutamylhydroxamic synthetase; L-glutamine synthetase; GS
+  ec:6.3.3.1 phosphoribosylformylglycinamidine cyclo-ligase; phosphoribosylaminoimidazole synthetase; AIR synthetase; 5'-aminoimidazole ribonucleotide synthetase; 2-(formamido)-1-N-(5-phosphoribosyl)acetamidine cyclo-ligase (ADP-forming)
+
+map01120 Microbial metabolism in diverse environments (30)
+
+  ec:1.1.1.3 homoserine dehydrogenase; HSDH; HSD
+  ec:1.1.1.95 phosphoglycerate dehydrogenase; PHGDH (gene name); D-3-phosphoglycerate:NAD+ oxidoreductase; alpha-phosphoglycerate dehydrogenase; 3-phosphoglycerate dehydrogenase; 3-phosphoglyceric acid dehydrogenase; D-3-phosphoglycerate dehydrogenase; glycerate 3-phosphate dehydrogenase; glycerate-1,3-phosphate dehydrogenase; phosphoglycerate oxidoreductase; phosphoglyceric acid dehydrogenase; SerA; 3-phosphoglycerate:NAD+ 2-oxidoreductase; SerA 3PG dehydrogenase; 3PHP reductase
+  ec:1.12.98.1 coenzyme F420 hydrogenase; 8-hydroxy-5-deazaflavin-reducing hydrogenase; F420-reducing hydrogenase; coenzyme F420-dependent hydrogenase
+  ec:1.17.1.8 4-hydroxy-tetrahydrodipicolinate reductase; dihydrodipicolinate reductase (incorrect); dihydrodipicolinic acid reductase (incorrect); 2,3,4,5-tetrahydrodipicolinate:NAD(P)+ oxidoreductase (incorrect); dapB (gene name)
+  ec:1.2.1.11 aspartate-semialdehyde dehydrogenase; aspartate semialdehyde dehydrogenase; aspartic semialdehyde dehydrogenase; L-aspartate-beta-semialdehyde:NADP+ oxidoreductase (phosphorylating); aspartic beta-semialdehyde dehydrogenase; ASA dehydrogenase
+  ec:1.2.1.59 glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating); triosephosphate dehydrogenase (NAD(P)); glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) (phosphorylating)
+  ec:1.2.7.1 pyruvate synthase; pyruvate oxidoreductase; pyruvate synthetase; pyruvate:ferredoxin oxidoreductase; pyruvic-ferredoxin oxidoreductase; 2-oxobutyrate synthase; alpha-ketobutyrate-ferredoxin oxidoreductase; 2-ketobutyrate synthase; alpha-ketobutyrate synthase; 2-oxobutyrate-ferredoxin oxidoreductase; 2-oxobutanoate:ferredoxin 2-oxidoreductase (CoA-propionylating); 2-oxobutanoate:ferredoxin 2-oxidoreductase (CoA-propanoylating)
+  ec:1.2.7.3 2-oxoglutarate synthase; 2-ketoglutarate ferredoxin oxidoreductase; 2-oxoglutarate:ferredoxin oxidoreductase; KGOR; 2-oxoglutarate ferredoxin oxidoreductase; 2-oxoglutarate:ferredoxin 2-oxidoreductase (CoA-succinylating)
+  ec:1.5.98.1 methylenetetrahydromethanopterin dehydrogenase; N5,N10-methylenetetrahydromethanopterin dehydrogenase; 5,10-methylenetetrahydromethanopterin dehydrogenase
+  ec:1.5.98.2 5,10-methylenetetrahydromethanopterin reductase; 5,10-methylenetetrahydromethanopterin cyclohydrolase; N5,N10-methylenetetrahydromethanopterin reductase; methylene-H4MPT reductase; coenzyme F420-dependent N5,N10-methenyltetrahydromethanopterin reductase; N5,N10-methylenetetrahydromethanopterin:coenzyme-F420 oxidoreductase
+  ec:1.8.98.1 dihydromethanophenazine:CoB-CoM heterodisulfide reductase; hdrDE (gene names); CoB---CoM heterodisulfide reductase (ambiguous); heterodisulfide reductase (ambiguous); coenzyme B:coenzyme M:methanophenazine oxidoreductase
+  ec:2.1.1.86 tetrahydromethanopterin S-methyltransferase; tetrahydromethanopterin methyltransferase; mtrA-H (gene names); cmtA (gene name); N5-methyltetrahydromethanopterin---coenzyme M methyltransferase; 5-methyl-5,6,7,8-tetrahydromethanopterin:2-mercaptoethanesulfonate 2-methyltransferase
+  ec:2.3.1.101 formylmethanofuran---tetrahydromethanopterin N-formyltransferase; formylmethanofuran-tetrahydromethanopterin formyltransferase; formylmethanofuran:tetrahydromethanopterin formyltransferase; N-formylmethanofuran(CHO-MFR):tetrahydromethanopterin(H4MPT) formyltransferase; FTR; formylmethanofuran:5,6,7,8-tetrahydromethanopterin N5-formyltransferase
+  ec:2.3.1.169 CO-methylating acetyl-CoA synthase
+  ec:2.5.1.47 cysteine synthase; O-acetyl-L-serine sulfhydrylase; O-acetyl-L-serine sulfohydrolase; O-acetylserine (thiol)-lyase; O-acetylserine (thiol)-lyase A; O-acetylserine sulfhydrylase; O3-acetyl-L-serine acetate-lyase (adding hydrogen-sulfide); acetylserine sulfhydrylase; cysteine synthetase; S-sulfocysteine synthase; 3-O-acetyl-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase; O3-acetyl-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase
+  ec:2.7.2.3 phosphoglycerate kinase; PGK; 3-PGK; ATP-3-phospho-D-glycerate-1-phosphotransferase; ATP:D-3-phosphoglycerate 1-phosphotransferase; 3-phosphoglycerate kinase; 3-phosphoglycerate phosphokinase; 3-phosphoglyceric acid kinase; 3-phosphoglyceric acid phosphokinase; 3-phosphoglyceric kinase; glycerate 3-phosphate kinase; glycerophosphate kinase; phosphoglyceric acid kinase; phosphoglyceric kinase; phosphoglycerokinase
+  ec:2.7.2.4 aspartate kinase; aspartokinase; AK; beta-aspartokinase; aspartic kinase
+  ec:2.8.4.1 coenzyme-B sulfoethylthiotransferase; methyl-CoM reductase; methyl coenzyme M reductase
+  ec:3.1.3.11 fructose-bisphosphatase; hexose diphosphatase; FBPase; fructose 1,6-diphosphatase; fructose 1,6-diphosphate phosphatase; D-fructose 1,6-diphosphatase; fructose 1,6-bisphosphatase; fructose diphosphatase; fructose diphosphate phosphatase; fructose bisphosphate phosphatase; fructose 1,6-bisphosphate 1-phosphatase; fructose 1,6-bisphosphate phosphatase; hexose bisphosphatase; D-fructose-1,6-bisphosphate phosphatase
+  ec:3.1.3.3 phosphoserine phosphatase
+  ec:3.5.4.27 methenyltetrahydromethanopterin cyclohydrolase; 5,10-methenyltetrahydromethanopterin cyclohydrolase; N5,N10-methenyltetrahydromethanopterin cyclohydrolase; methenyl-H4MPT cyclohydrolase; 5,10-methenyltetrahydromethanopterin 10-hydrolase (decyclizing)
+  ec:4.1.2.13 fructose-bisphosphate aldolase; aldolase; fructose-1,6-bisphosphate triosephosphate-lyase; fructose diphosphate aldolase; diphosphofructose aldolase; fructose 1,6-diphosphate aldolase; ketose 1-phosphate aldolase; phosphofructoaldolase; zymohexase; fructoaldolase; fructose 1-phosphate aldolase; fructose 1-monophosphate aldolase; 1,6-diphosphofructose aldolase; SMALDO; D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase
+  ec:4.1.2.43 3-hexulose-6-phosphate synthase; D-arabino-3-hexulose 6-phosphate formaldehyde-lyase; 3-hexulosephosphate synthase; 3-hexulose phosphate synthase; HPS
+  ec:4.2.1.147 5,6,7,8-tetrahydromethanopterin hydro-lyase; formaldehyde-activating enzyme
+  ec:4.2.3.1 threonine synthase; threonine synthetase; O-phospho-L-homoserine phospho-lyase (adding water)
+  ec:4.4.1.19 phosphosulfolactate synthase; (2R)-phospho-3-sulfolactate synthase; (2R)-O-phospho-3-sulfolactate sulfo-lyase
+  ec:5.3.1.1 triose-phosphate isomerase; phosphotriose isomerase; triose phosphoisomerase; triose phosphate mutase; D-glyceraldehyde-3-phosphate ketol-isomerase
+  ec:6.2.1.1 acetate---CoA ligase; acetyl-CoA synthetase; acetyl activating enzyme; acetate thiokinase; acyl-activating enzyme; acetyl coenzyme A synthetase; acetic thiokinase; acetyl CoA ligase; acetyl CoA synthase; acetyl-coenzyme A synthase; short chain fatty acyl-CoA synthetase; short-chain acyl-coenzyme A synthetase; ACS
+  ec:6.2.1.5 succinate---CoA ligase (ADP-forming); succinyl-CoA synthetase (ADP-forming); succinic thiokinase; succinate thiokinase; succinyl-CoA synthetase; succinyl coenzyme A synthetase (adenosine diphosphate-forming); succinyl coenzyme A synthetase; A-STK (adenin nucleotide-linked succinate thiokinase); STK; A-SCS
+  ec:6.3.1.2 glutamine synthetase; glutamate---ammonia ligase; glutamylhydroxamic synthetase; L-glutamine synthetase; GS
+
+map01130 Biosynthesis of antibiotics (26)
+
+  ec:1.1.1.3 homoserine dehydrogenase; HSDH; HSD
+  ec:1.1.1.34 hydroxymethylglutaryl-CoA reductase (NADPH); hydroxymethylglutaryl coenzyme A reductase (reduced nicotinamide adenine dinucleotide phosphate); 3-hydroxy-3-methylglutaryl-CoA reductase; beta-hydroxy-beta-methylglutaryl coenzyme A reductase; hydroxymethylglutaryl CoA reductase (NADPH); S-3-hydroxy-3-methylglutaryl-CoA reductase; NADPH-hydroxymethylglutaryl-CoA reductase; HMGCoA reductase-mevalonate:NADP-oxidoreductase (acetylating-CoA); 3-hydroxy-3-methylglutaryl CoA reductase (NADPH); hydroxymethylglutaryl-CoA reductase (NADPH2)
+  ec:1.1.1.86 ketol-acid reductoisomerase (NADP+); dihydroxyisovalerate dehydrogenase (isomerizing); acetohydroxy acid isomeroreductase; ketol acid reductoisomerase; alpha-keto-beta-hydroxylacyl reductoisomerase; 2-hydroxy-3-keto acid reductoisomerase; acetohydroxy acid reductoisomerase; acetolactate reductoisomerase; dihydroxyisovalerate (isomerizing) dehydrogenase; isomeroreductase; reductoisomerase; ketol-acid reductoisomerase; (R)-2,3-dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)
+  ec:1.1.1.95 phosphoglycerate dehydrogenase; PHGDH (gene name); D-3-phosphoglycerate:NAD+ oxidoreductase; alpha-phosphoglycerate dehydrogenase; 3-phosphoglycerate dehydrogenase; 3-phosphoglyceric acid dehydrogenase; D-3-phosphoglycerate dehydrogenase; glycerate 3-phosphate dehydrogenase; glycerate-1,3-phosphate dehydrogenase; phosphoglycerate oxidoreductase; phosphoglyceric acid dehydrogenase; SerA; 3-phosphoglycerate:NAD+ 2-oxidoreductase; SerA 3PG dehydrogenase; 3PHP reductase
+  ec:1.17.1.8 4-hydroxy-tetrahydrodipicolinate reductase; dihydrodipicolinate reductase (incorrect); dihydrodipicolinic acid reductase (incorrect); 2,3,4,5-tetrahydrodipicolinate:NAD(P)+ oxidoreductase (incorrect); dapB (gene name)
+  ec:1.2.1.11 aspartate-semialdehyde dehydrogenase; aspartate semialdehyde dehydrogenase; aspartic semialdehyde dehydrogenase; L-aspartate-beta-semialdehyde:NADP+ oxidoreductase (phosphorylating); aspartic beta-semialdehyde dehydrogenase; ASA dehydrogenase
+  ec:1.2.1.59 glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating); triosephosphate dehydrogenase (NAD(P)); glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) (phosphorylating)
+  ec:1.2.7.1 pyruvate synthase; pyruvate oxidoreductase; pyruvate synthetase; pyruvate:ferredoxin oxidoreductase; pyruvic-ferredoxin oxidoreductase; 2-oxobutyrate synthase; alpha-ketobutyrate-ferredoxin oxidoreductase; 2-ketobutyrate synthase; alpha-ketobutyrate synthase; 2-oxobutyrate-ferredoxin oxidoreductase; 2-oxobutanoate:ferredoxin 2-oxidoreductase (CoA-propionylating); 2-oxobutanoate:ferredoxin 2-oxidoreductase (CoA-propanoylating)
+  ec:1.2.7.3 2-oxoglutarate synthase; 2-ketoglutarate ferredoxin oxidoreductase; 2-oxoglutarate:ferredoxin oxidoreductase; KGOR; 2-oxoglutarate ferredoxin oxidoreductase; 2-oxoglutarate:ferredoxin 2-oxidoreductase (CoA-succinylating)
+  ec:1.4.1.24 3-dehydroquinate synthase II; DHQ synthase II; MJ1249 (gene name); aroB' (gene name)
+  ec:2.5.1.47 cysteine synthase; O-acetyl-L-serine sulfhydrylase; O-acetyl-L-serine sulfohydrolase; O-acetylserine (thiol)-lyase; O-acetylserine (thiol)-lyase A; O-acetylserine sulfhydrylase; O3-acetyl-L-serine acetate-lyase (adding hydrogen-sulfide); acetylserine sulfhydrylase; cysteine synthetase; S-sulfocysteine synthase; 3-O-acetyl-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase; O3-acetyl-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase
+  ec:2.6.1.42 branched-chain-amino-acid transaminase; transaminase B; branched-chain amino acid aminotransferase; branched-chain amino acid-glutamate transaminase; branched-chain aminotransferase; L-branched chain amino acid aminotransferase; glutamate-branched-chain amino acid transaminase
+  ec:2.6.1.83 LL-diaminopimelate aminotransferase; LL-diaminopimelate transaminase; LL-DAP aminotransferase; LL-DAP-AT
+  ec:2.7.2.3 phosphoglycerate kinase; PGK; 3-PGK; ATP-3-phospho-D-glycerate-1-phosphotransferase; ATP:D-3-phosphoglycerate 1-phosphotransferase; 3-phosphoglycerate kinase; 3-phosphoglycerate phosphokinase; 3-phosphoglyceric acid kinase; 3-phosphoglyceric acid phosphokinase; 3-phosphoglyceric kinase; glycerate 3-phosphate kinase; glycerophosphate kinase; phosphoglyceric acid kinase; phosphoglyceric kinase; phosphoglycerokinase
+  ec:2.7.2.4 aspartate kinase; aspartokinase; AK; beta-aspartokinase; aspartic kinase
+  ec:2.7.2.8 acetylglutamate kinase; N-acetylglutamate 5-phosphotransferase; acetylglutamate phosphokinase; N-acetylglutamate phosphokinase; N-acetylglutamate kinase; N-acetylglutamic 5-phosphotransferase
+  ec:3.1.3.11 fructose-bisphosphatase; hexose diphosphatase; FBPase; fructose 1,6-diphosphatase; fructose 1,6-diphosphate phosphatase; D-fructose 1,6-diphosphatase; fructose 1,6-bisphosphatase; fructose diphosphatase; fructose diphosphate phosphatase; fructose bisphosphate phosphatase; fructose 1,6-bisphosphate 1-phosphatase; fructose 1,6-bisphosphate phosphatase; hexose bisphosphatase; D-fructose-1,6-bisphosphate phosphatase
+  ec:3.1.3.3 phosphoserine phosphatase
+  ec:3.5.4.10 IMP cyclohydrolase; inosinicase; inosinate cyclohydrolase; IMP 1,2-hydrolase (decyclizing)
+  ec:4.1.2.13 fructose-bisphosphate aldolase; aldolase; fructose-1,6-bisphosphate triosephosphate-lyase; fructose diphosphate aldolase; diphosphofructose aldolase; fructose 1,6-diphosphate aldolase; ketose 1-phosphate aldolase; phosphofructoaldolase; zymohexase; fructoaldolase; fructose 1-phosphate aldolase; fructose 1-monophosphate aldolase; 1,6-diphosphofructose aldolase; SMALDO; D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase
+  ec:4.2.1.46 dTDP-glucose 4,6-dehydratase; thymidine diphosphoglucose oxidoreductase; TDP-glucose oxidoreductase; dTDP-glucose 4,6-hydro-lyase; dTDP-glucose 4,6-hydro-lyase (dTDP-4-dehydro-6-deoxy-alpha-D-glucose-forming)
+  ec:5.3.1.1 triose-phosphate isomerase; phosphotriose isomerase; triose phosphoisomerase; triose phosphate mutase; D-glyceraldehyde-3-phosphate ketol-isomerase
+  ec:5.3.3.2 isopentenyl-diphosphate Delta-isomerase; isopentenylpyrophosphate Delta-isomerase; methylbutenylpyrophosphate isomerase; isopentenylpyrophosphate isomerase
+  ec:6.2.1.1 acetate---CoA ligase; acetyl-CoA synthetase; acetyl activating enzyme; acetate thiokinase; acyl-activating enzyme; acetyl coenzyme A synthetase; acetic thiokinase; acetyl CoA ligase; acetyl CoA synthase; acetyl-coenzyme A synthase; short chain fatty acyl-CoA synthetase; short-chain acyl-coenzyme A synthetase; ACS
+  ec:6.2.1.5 succinate---CoA ligase (ADP-forming); succinyl-CoA synthetase (ADP-forming); succinic thiokinase; succinate thiokinase; succinyl-CoA synthetase; succinyl coenzyme A synthetase (adenosine diphosphate-forming); succinyl coenzyme A synthetase; A-STK (adenin nucleotide-linked succinate thiokinase); STK; A-SCS
+  ec:6.3.3.1 phosphoribosylformylglycinamidine cyclo-ligase; phosphoribosylaminoimidazole synthetase; AIR synthetase; 5'-aminoimidazole ribonucleotide synthetase; 2-(formamido)-1-N-(5-phosphoribosyl)acetamidine cyclo-ligase (ADP-forming)
+
+map01110 Biosynthesis of secondary metabolites (26)
+
+  ec:1.1.1.205 IMP dehydrogenase; inosine-5'-phosphate dehydrogenase; inosinic acid dehydrogenase; inosinate dehydrogenase; inosine 5'-monophosphate dehydrogenase; inosine monophosphate dehydrogenase; IMP oxidoreductase; inosine monophosphate oxidoreductase
+  ec:1.1.1.3 homoserine dehydrogenase; HSDH; HSD
+  ec:1.1.1.34 hydroxymethylglutaryl-CoA reductase (NADPH); hydroxymethylglutaryl coenzyme A reductase (reduced nicotinamide adenine dinucleotide phosphate); 3-hydroxy-3-methylglutaryl-CoA reductase; beta-hydroxy-beta-methylglutaryl coenzyme A reductase; hydroxymethylglutaryl CoA reductase (NADPH); S-3-hydroxy-3-methylglutaryl-CoA reductase; NADPH-hydroxymethylglutaryl-CoA reductase; HMGCoA reductase-mevalonate:NADP-oxidoreductase (acetylating-CoA); 3-hydroxy-3-methylglutaryl CoA reductase (NADPH); hydroxymethylglutaryl-CoA reductase (NADPH2)
+  ec:1.1.1.86 ketol-acid reductoisomerase (NADP+); dihydroxyisovalerate dehydrogenase (isomerizing); acetohydroxy acid isomeroreductase; ketol acid reductoisomerase; alpha-keto-beta-hydroxylacyl reductoisomerase; 2-hydroxy-3-keto acid reductoisomerase; acetohydroxy acid reductoisomerase; acetolactate reductoisomerase; dihydroxyisovalerate (isomerizing) dehydrogenase; isomeroreductase; reductoisomerase; ketol-acid reductoisomerase; (R)-2,3-dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)
+  ec:1.11.1.21 catalase-peroxidase; katG (gene name)
+  ec:1.17.1.8 4-hydroxy-tetrahydrodipicolinate reductase; dihydrodipicolinate reductase (incorrect); dihydrodipicolinic acid reductase (incorrect); 2,3,4,5-tetrahydrodipicolinate:NAD(P)+ oxidoreductase (incorrect); dapB (gene name)
+  ec:1.2.1.11 aspartate-semialdehyde dehydrogenase; aspartate semialdehyde dehydrogenase; aspartic semialdehyde dehydrogenase; L-aspartate-beta-semialdehyde:NADP+ oxidoreductase (phosphorylating); aspartic beta-semialdehyde dehydrogenase; ASA dehydrogenase
+  ec:1.2.1.59 glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating); triosephosphate dehydrogenase (NAD(P)); glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) (phosphorylating)
+  ec:1.2.7.1 pyruvate synthase; pyruvate oxidoreductase; pyruvate synthetase; pyruvate:ferredoxin oxidoreductase; pyruvic-ferredoxin oxidoreductase; 2-oxobutyrate synthase; alpha-ketobutyrate-ferredoxin oxidoreductase; 2-ketobutyrate synthase; alpha-ketobutyrate synthase; 2-oxobutyrate-ferredoxin oxidoreductase; 2-oxobutanoate:ferredoxin 2-oxidoreductase (CoA-propionylating); 2-oxobutanoate:ferredoxin 2-oxidoreductase (CoA-propanoylating)
+  ec:1.4.1.24 3-dehydroquinate synthase II; DHQ synthase II; MJ1249 (gene name); aroB' (gene name)
+  ec:2.5.1.47 cysteine synthase; O-acetyl-L-serine sulfhydrylase; O-acetyl-L-serine sulfohydrolase; O-acetylserine (thiol)-lyase; O-acetylserine (thiol)-lyase A; O-acetylserine sulfhydrylase; O3-acetyl-L-serine acetate-lyase (adding hydrogen-sulfide); acetylserine sulfhydrylase; cysteine synthetase; S-sulfocysteine synthase; 3-O-acetyl-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase; O3-acetyl-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase
+  ec:2.5.1.6 methionine adenosyltransferase; adenosylmethionine synthetase; ATP-methionine adenosyltransferase; methionine S-adenosyltransferase; methionine-activating enzyme; S-adenosyl-L-methionine synthetase; S-adenosylmethionine synthase; S-adenosylmethionine synthetase; AdoMet synthetase
+  ec:2.6.1.42 branched-chain-amino-acid transaminase; transaminase B; branched-chain amino acid aminotransferase; branched-chain amino acid-glutamate transaminase; branched-chain aminotransferase; L-branched chain amino acid aminotransferase; glutamate-branched-chain amino acid transaminase
+  ec:2.6.1.83 LL-diaminopimelate aminotransferase; LL-diaminopimelate transaminase; LL-DAP aminotransferase; LL-DAP-AT
+  ec:2.7.2.3 phosphoglycerate kinase; PGK; 3-PGK; ATP-3-phospho-D-glycerate-1-phosphotransferase; ATP:D-3-phosphoglycerate 1-phosphotransferase; 3-phosphoglycerate kinase; 3-phosphoglycerate phosphokinase; 3-phosphoglyceric acid kinase; 3-phosphoglyceric acid phosphokinase; 3-phosphoglyceric kinase; glycerate 3-phosphate kinase; glycerophosphate kinase; phosphoglyceric acid kinase; phosphoglyceric kinase; phosphoglycerokinase
+  ec:2.7.2.4 aspartate kinase; aspartokinase; AK; beta-aspartokinase; aspartic kinase
+  ec:2.7.2.8 acetylglutamate kinase; N-acetylglutamate 5-phosphotransferase; acetylglutamate phosphokinase; N-acetylglutamate phosphokinase; N-acetylglutamate kinase; N-acetylglutamic 5-phosphotransferase
+  ec:3.1.3.11 fructose-bisphosphatase; hexose diphosphatase; FBPase; fructose 1,6-diphosphatase; fructose 1,6-diphosphate phosphatase; D-fructose 1,6-diphosphatase; fructose 1,6-bisphosphatase; fructose diphosphatase; fructose diphosphate phosphatase; fructose bisphosphate phosphatase; fructose 1,6-bisphosphate 1-phosphatase; fructose 1,6-bisphosphate phosphatase; hexose bisphosphatase; D-fructose-1,6-bisphosphate phosphatase
+  ec:3.5.4.10 IMP cyclohydrolase; inosinicase; inosinate cyclohydrolase; IMP 1,2-hydrolase (decyclizing)
+  ec:4.1.2.13 fructose-bisphosphate aldolase; aldolase; fructose-1,6-bisphosphate triosephosphate-lyase; fructose diphosphate aldolase; diphosphofructose aldolase; fructose 1,6-diphosphate aldolase; ketose 1-phosphate aldolase; phosphofructoaldolase; zymohexase; fructoaldolase; fructose 1-phosphate aldolase; fructose 1-monophosphate aldolase; 1,6-diphosphofructose aldolase; SMALDO; D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase
+  ec:4.2.3.1 threonine synthase; threonine synthetase; O-phospho-L-homoserine phospho-lyase (adding water)
+  ec:5.3.1.1 triose-phosphate isomerase; phosphotriose isomerase; triose phosphoisomerase; triose phosphate mutase; D-glyceraldehyde-3-phosphate ketol-isomerase
+  ec:5.3.3.2 isopentenyl-diphosphate Delta-isomerase; isopentenylpyrophosphate Delta-isomerase; methylbutenylpyrophosphate isomerase; isopentenylpyrophosphate isomerase
+  ec:6.2.1.1 acetate---CoA ligase; acetyl-CoA synthetase; acetyl activating enzyme; acetate thiokinase; acyl-activating enzyme; acetyl coenzyme A synthetase; acetic thiokinase; acetyl CoA ligase; acetyl CoA synthase; acetyl-coenzyme A synthase; short chain fatty acyl-CoA synthetase; short-chain acyl-coenzyme A synthetase; ACS
+  ec:6.2.1.5 succinate---CoA ligase (ADP-forming); succinyl-CoA synthetase (ADP-forming); succinic thiokinase; succinate thiokinase; succinyl-CoA synthetase; succinyl coenzyme A synthetase (adenosine diphosphate-forming); succinyl coenzyme A synthetase; A-STK (adenin nucleotide-linked succinate thiokinase); STK; A-SCS
+  ec:6.3.3.1 phosphoribosylformylglycinamidine cyclo-ligase; phosphoribosylaminoimidazole synthetase; AIR synthetase; 5'-aminoimidazole ribonucleotide synthetase; 2-(formamido)-1-N-(5-phosphoribosyl)acetamidine cyclo-ligase (ADP-forming)
+
+map00680 Methane metabolism (18)
+
+  ec:1.1.1.95 phosphoglycerate dehydrogenase; PHGDH (gene name); D-3-phosphoglycerate:NAD+ oxidoreductase; alpha-phosphoglycerate dehydrogenase; 3-phosphoglycerate dehydrogenase; 3-phosphoglyceric acid dehydrogenase; D-3-phosphoglycerate dehydrogenase; glycerate 3-phosphate dehydrogenase; glycerate-1,3-phosphate dehydrogenase; phosphoglycerate oxidoreductase; phosphoglyceric acid dehydrogenase; SerA; 3-phosphoglycerate:NAD+ 2-oxidoreductase; SerA 3PG dehydrogenase; 3PHP reductase
+  ec:1.12.98.1 coenzyme F420 hydrogenase; 8-hydroxy-5-deazaflavin-reducing hydrogenase; F420-reducing hydrogenase; coenzyme F420-dependent hydrogenase
+  ec:1.2.7.1 pyruvate synthase; pyruvate oxidoreductase; pyruvate synthetase; pyruvate:ferredoxin oxidoreductase; pyruvic-ferredoxin oxidoreductase; 2-oxobutyrate synthase; alpha-ketobutyrate-ferredoxin oxidoreductase; 2-ketobutyrate synthase; alpha-ketobutyrate synthase; 2-oxobutyrate-ferredoxin oxidoreductase; 2-oxobutanoate:ferredoxin 2-oxidoreductase (CoA-propionylating); 2-oxobutanoate:ferredoxin 2-oxidoreductase (CoA-propanoylating)
+  ec:1.5.98.1 methylenetetrahydromethanopterin dehydrogenase; N5,N10-methylenetetrahydromethanopterin dehydrogenase; 5,10-methylenetetrahydromethanopterin dehydrogenase
+  ec:1.5.98.2 5,10-methylenetetrahydromethanopterin reductase; 5,10-methylenetetrahydromethanopterin cyclohydrolase; N5,N10-methylenetetrahydromethanopterin reductase; methylene-H4MPT reductase; coenzyme F420-dependent N5,N10-methenyltetrahydromethanopterin reductase; N5,N10-methylenetetrahydromethanopterin:coenzyme-F420 oxidoreductase
+  ec:1.8.98.1 dihydromethanophenazine:CoB-CoM heterodisulfide reductase; hdrDE (gene names); CoB---CoM heterodisulfide reductase (ambiguous); heterodisulfide reductase (ambiguous); coenzyme B:coenzyme M:methanophenazine oxidoreductase
+  ec:2.1.1.86 tetrahydromethanopterin S-methyltransferase; tetrahydromethanopterin methyltransferase; mtrA-H (gene names); cmtA (gene name); N5-methyltetrahydromethanopterin---coenzyme M methyltransferase; 5-methyl-5,6,7,8-tetrahydromethanopterin:2-mercaptoethanesulfonate 2-methyltransferase
+  ec:2.3.1.101 formylmethanofuran---tetrahydromethanopterin N-formyltransferase; formylmethanofuran-tetrahydromethanopterin formyltransferase; formylmethanofuran:tetrahydromethanopterin formyltransferase; N-formylmethanofuran(CHO-MFR):tetrahydromethanopterin(H4MPT) formyltransferase; FTR; formylmethanofuran:5,6,7,8-tetrahydromethanopterin N5-formyltransferase
+  ec:2.8.4.1 coenzyme-B sulfoethylthiotransferase; methyl-CoM reductase; methyl coenzyme M reductase
+  ec:3.1.3.11 fructose-bisphosphatase; hexose diphosphatase; FBPase; fructose 1,6-diphosphatase; fructose 1,6-diphosphate phosphatase; D-fructose 1,6-diphosphatase; fructose 1,6-bisphosphatase; fructose diphosphatase; fructose diphosphate phosphatase; fructose bisphosphate phosphatase; fructose 1,6-bisphosphate 1-phosphatase; fructose 1,6-bisphosphate phosphatase; hexose bisphosphatase; D-fructose-1,6-bisphosphate phosphatase
+  ec:3.1.3.3 phosphoserine phosphatase
+  ec:3.5.4.27 methenyltetrahydromethanopterin cyclohydrolase; 5,10-methenyltetrahydromethanopterin cyclohydrolase; N5,N10-methenyltetrahydromethanopterin cyclohydrolase; methenyl-H4MPT cyclohydrolase; 5,10-methenyltetrahydromethanopterin 10-hydrolase (decyclizing)
+  ec:4.1.2.13 fructose-bisphosphate aldolase; aldolase; fructose-1,6-bisphosphate triosephosphate-lyase; fructose diphosphate aldolase; diphosphofructose aldolase; fructose 1,6-diphosphate aldolase; ketose 1-phosphate aldolase; phosphofructoaldolase; zymohexase; fructoaldolase; fructose 1-phosphate aldolase; fructose 1-monophosphate aldolase; 1,6-diphosphofructose aldolase; SMALDO; D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase
+  ec:4.1.2.43 3-hexulose-6-phosphate synthase; D-arabino-3-hexulose 6-phosphate formaldehyde-lyase; 3-hexulosephosphate synthase; 3-hexulose phosphate synthase; HPS
+  ec:4.2.1.147 5,6,7,8-tetrahydromethanopterin hydro-lyase; formaldehyde-activating enzyme
+  ec:4.2.3.153 (5-formylfuran-3-yl)methyl phosphate synthase; mfnB (gene name); 4-HFC-P synthase; 4-(hydroxymethyl)-2-furaldehyde phosphate synthase
+  ec:4.4.1.19 phosphosulfolactate synthase; (2R)-phospho-3-sulfolactate synthase; (2R)-O-phospho-3-sulfolactate sulfo-lyase
+  ec:6.2.1.1 acetate---CoA ligase; acetyl-CoA synthetase; acetyl activating enzyme; acetate thiokinase; acyl-activating enzyme; acetyl coenzyme A synthetase; acetic thiokinase; acetyl CoA ligase; acetyl CoA synthase; acetyl-coenzyme A synthase; short chain fatty acyl-CoA synthetase; short-chain acyl-coenzyme A synthetase; ACS
+
+map00270 Cysteine and methionine metabolism (8)
+
+  ec:1.1.1.3 homoserine dehydrogenase; HSDH; HSD
+  ec:1.1.1.95 phosphoglycerate dehydrogenase; PHGDH (gene name); D-3-phosphoglycerate:NAD+ oxidoreductase; alpha-phosphoglycerate dehydrogenase; 3-phosphoglycerate dehydrogenase; 3-phosphoglyceric acid dehydrogenase; D-3-phosphoglycerate dehydrogenase; glycerate 3-phosphate dehydrogenase; glycerate-1,3-phosphate dehydrogenase; phosphoglycerate oxidoreductase; phosphoglyceric acid dehydrogenase; SerA; 3-phosphoglycerate:NAD+ 2-oxidoreductase; SerA 3PG dehydrogenase; 3PHP reductase
+  ec:1.2.1.11 aspartate-semialdehyde dehydrogenase; aspartate semialdehyde dehydrogenase; aspartic semialdehyde dehydrogenase; L-aspartate-beta-semialdehyde:NADP+ oxidoreductase (phosphorylating); aspartic beta-semialdehyde dehydrogenase; ASA dehydrogenase
+  ec:2.5.1.47 cysteine synthase; O-acetyl-L-serine sulfhydrylase; O-acetyl-L-serine sulfohydrolase; O-acetylserine (thiol)-lyase; O-acetylserine (thiol)-lyase A; O-acetylserine sulfhydrylase; O3-acetyl-L-serine acetate-lyase (adding hydrogen-sulfide); acetylserine sulfhydrylase; cysteine synthetase; S-sulfocysteine synthase; 3-O-acetyl-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase; O3-acetyl-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase
+  ec:2.5.1.49 O-acetylhomoserine aminocarboxypropyltransferase; O-acetyl-L-homoserine acetate-lyase (adding methanethiol); O-acetyl-L-homoserine sulfhydrolase; O-acetylhomoserine (thiol)-lyase; O-acetylhomoserine sulfhydrolase; methionine synthase (misleading)
+  ec:2.5.1.6 methionine adenosyltransferase; adenosylmethionine synthetase; ATP-methionine adenosyltransferase; methionine S-adenosyltransferase; methionine-activating enzyme; S-adenosyl-L-methionine synthetase; S-adenosylmethionine synthase; S-adenosylmethionine synthetase; AdoMet synthetase
+  ec:2.6.1.42 branched-chain-amino-acid transaminase; transaminase B; branched-chain amino acid aminotransferase; branched-chain amino acid-glutamate transaminase; branched-chain aminotransferase; L-branched chain amino acid aminotransferase; glutamate-branched-chain amino acid transaminase
+  ec:2.7.2.4 aspartate kinase; aspartokinase; AK; beta-aspartokinase; aspartic kinase
+
+map00010 Glycolysis / Gluconeogenesis (7)
+
+  ec:1.2.1.59 glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating); triosephosphate dehydrogenase (NAD(P)); glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) (phosphorylating)
+  ec:1.2.7.1 pyruvate synthase; pyruvate oxidoreductase; pyruvate synthetase; pyruvate:ferredoxin oxidoreductase; pyruvic-ferredoxin oxidoreductase; 2-oxobutyrate synthase; alpha-ketobutyrate-ferredoxin oxidoreductase; 2-ketobutyrate synthase; alpha-ketobutyrate synthase; 2-oxobutyrate-ferredoxin oxidoreductase; 2-oxobutanoate:ferredoxin 2-oxidoreductase (CoA-propionylating); 2-oxobutanoate:ferredoxin 2-oxidoreductase (CoA-propanoylating)
+  ec:2.7.2.3 phosphoglycerate kinase; PGK; 3-PGK; ATP-3-phospho-D-glycerate-1-phosphotransferase; ATP:D-3-phosphoglycerate 1-phosphotransferase; 3-phosphoglycerate kinase; 3-phosphoglycerate phosphokinase; 3-phosphoglyceric acid kinase; 3-phosphoglyceric acid phosphokinase; 3-phosphoglyceric kinase; glycerate 3-phosphate kinase; glycerophosphate kinase; phosphoglyceric acid kinase; phosphoglyceric kinase; phosphoglycerokinase
+  ec:3.1.3.11 fructose-bisphosphatase; hexose diphosphatase; FBPase; fructose 1,6-diphosphatase; fructose 1,6-diphosphate phosphatase; D-fructose 1,6-diphosphatase; fructose 1,6-bisphosphatase; fructose diphosphatase; fructose diphosphate phosphatase; fructose bisphosphate phosphatase; fructose 1,6-bisphosphate 1-phosphatase; fructose 1,6-bisphosphate phosphatase; hexose bisphosphatase; D-fructose-1,6-bisphosphate phosphatase
+  ec:4.1.2.13 fructose-bisphosphate aldolase; aldolase; fructose-1,6-bisphosphate triosephosphate-lyase; fructose diphosphate aldolase; diphosphofructose aldolase; fructose 1,6-diphosphate aldolase; ketose 1-phosphate aldolase; phosphofructoaldolase; zymohexase; fructoaldolase; fructose 1-phosphate aldolase; fructose 1-monophosphate aldolase; 1,6-diphosphofructose aldolase; SMALDO; D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase
+  ec:5.3.1.1 triose-phosphate isomerase; phosphotriose isomerase; triose phosphoisomerase; triose phosphate mutase; D-glyceraldehyde-3-phosphate ketol-isomerase
+  ec:6.2.1.1 acetate---CoA ligase; acetyl-CoA synthetase; acetyl activating enzyme; acetate thiokinase; acyl-activating enzyme; acetyl coenzyme A synthetase; acetic thiokinase; acetyl CoA ligase; acetyl CoA synthase; acetyl-coenzyme A synthase; short chain fatty acyl-CoA synthetase; short-chain acyl-coenzyme A synthetase; ACS
+
+map00260 Glycine, serine and threonine metabolism (6)
+
+  ec:1.1.1.3 homoserine dehydrogenase; HSDH; HSD
+  ec:1.1.1.95 phosphoglycerate dehydrogenase; PHGDH (gene name); D-3-phosphoglycerate:NAD+ oxidoreductase; alpha-phosphoglycerate dehydrogenase; 3-phosphoglycerate dehydrogenase; 3-phosphoglyceric acid dehydrogenase; D-3-phosphoglycerate dehydrogenase; glycerate 3-phosphate dehydrogenase; glycerate-1,3-phosphate dehydrogenase; phosphoglycerate oxidoreductase; phosphoglyceric acid dehydrogenase; SerA; 3-phosphoglycerate:NAD+ 2-oxidoreductase; SerA 3PG dehydrogenase; 3PHP reductase
+  ec:1.2.1.11 aspartate-semialdehyde dehydrogenase; aspartate semialdehyde dehydrogenase; aspartic semialdehyde dehydrogenase; L-aspartate-beta-semialdehyde:NADP+ oxidoreductase (phosphorylating); aspartic beta-semialdehyde dehydrogenase; ASA dehydrogenase
+  ec:2.7.2.4 aspartate kinase; aspartokinase; AK; beta-aspartokinase; aspartic kinase
+  ec:3.1.3.3 phosphoserine phosphatase
+  ec:4.2.3.1 threonine synthase; threonine synthetase; O-phospho-L-homoserine phospho-lyase (adding water)
+
+map00300 Lysine biosynthesis (5)
+
+  ec:1.1.1.3 homoserine dehydrogenase; HSDH; HSD
+  ec:1.17.1.8 4-hydroxy-tetrahydrodipicolinate reductase; dihydrodipicolinate reductase (incorrect); dihydrodipicolinic acid reductase (incorrect); 2,3,4,5-tetrahydrodipicolinate:NAD(P)+ oxidoreductase (incorrect); dapB (gene name)
+  ec:1.2.1.11 aspartate-semialdehyde dehydrogenase; aspartate semialdehyde dehydrogenase; aspartic semialdehyde dehydrogenase; L-aspartate-beta-semialdehyde:NADP+ oxidoreductase (phosphorylating); aspartic beta-semialdehyde dehydrogenase; ASA dehydrogenase
+  ec:2.6.1.83 LL-diaminopimelate aminotransferase; LL-diaminopimelate transaminase; LL-DAP aminotransferase; LL-DAP-AT
+  ec:2.7.2.4 aspartate kinase; aspartokinase; AK; beta-aspartokinase; aspartic kinase
+
+map00710 Carbon fixation in photosynthetic organisms (5)
+
+  ec:1.2.1.59 glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating); triosephosphate dehydrogenase (NAD(P)); glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) (phosphorylating)
+  ec:2.7.2.3 phosphoglycerate kinase; PGK; 3-PGK; ATP-3-phospho-D-glycerate-1-phosphotransferase; ATP:D-3-phosphoglycerate 1-phosphotransferase; 3-phosphoglycerate kinase; 3-phosphoglycerate phosphokinase; 3-phosphoglyceric acid kinase; 3-phosphoglyceric acid phosphokinase; 3-phosphoglyceric kinase; glycerate 3-phosphate kinase; glycerophosphate kinase; phosphoglyceric acid kinase; phosphoglyceric kinase; phosphoglycerokinase
+  ec:3.1.3.11 fructose-bisphosphatase; hexose diphosphatase; FBPase; fructose 1,6-diphosphatase; fructose 1,6-diphosphate phosphatase; D-fructose 1,6-diphosphatase; fructose 1,6-bisphosphatase; fructose diphosphatase; fructose diphosphate phosphatase; fructose bisphosphate phosphatase; fructose 1,6-bisphosphate 1-phosphatase; fructose 1,6-bisphosphate phosphatase; hexose bisphosphatase; D-fructose-1,6-bisphosphate phosphatase
+  ec:4.1.2.13 fructose-bisphosphate aldolase; aldolase; fructose-1,6-bisphosphate triosephosphate-lyase; fructose diphosphate aldolase; diphosphofructose aldolase; fructose 1,6-diphosphate aldolase; ketose 1-phosphate aldolase; phosphofructoaldolase; zymohexase; fructoaldolase; fructose 1-phosphate aldolase; fructose 1-monophosphate aldolase; 1,6-diphosphofructose aldolase; SMALDO; D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase
+  ec:5.3.1.1 triose-phosphate isomerase; phosphotriose isomerase; triose phosphoisomerase; triose phosphate mutase; D-glyceraldehyde-3-phosphate ketol-isomerase
+
+map00720 Carbon fixation pathways in prokaryotes (5)
+
+  ec:1.2.7.1 pyruvate synthase; pyruvate oxidoreductase; pyruvate synthetase; pyruvate:ferredoxin oxidoreductase; pyruvic-ferredoxin oxidoreductase; 2-oxobutyrate synthase; alpha-ketobutyrate-ferredoxin oxidoreductase; 2-ketobutyrate synthase; alpha-ketobutyrate synthase; 2-oxobutyrate-ferredoxin oxidoreductase; 2-oxobutanoate:ferredoxin 2-oxidoreductase (CoA-propionylating); 2-oxobutanoate:ferredoxin 2-oxidoreductase (CoA-propanoylating)
+  ec:1.2.7.3 2-oxoglutarate synthase; 2-ketoglutarate ferredoxin oxidoreductase; 2-oxoglutarate:ferredoxin oxidoreductase; KGOR; 2-oxoglutarate ferredoxin oxidoreductase; 2-oxoglutarate:ferredoxin 2-oxidoreductase (CoA-succinylating)
+  ec:2.3.1.169 CO-methylating acetyl-CoA synthase
+  ec:6.2.1.1 acetate---CoA ligase; acetyl-CoA synthetase; acetyl activating enzyme; acetate thiokinase; acyl-activating enzyme; acetyl coenzyme A synthetase; acetic thiokinase; acetyl CoA ligase; acetyl CoA synthase; acetyl-coenzyme A synthase; short chain fatty acyl-CoA synthetase; short-chain acyl-coenzyme A synthetase; ACS
+  ec:6.2.1.5 succinate---CoA ligase (ADP-forming); succinyl-CoA synthetase (ADP-forming); succinic thiokinase; succinate thiokinase; succinyl-CoA synthetase; succinyl coenzyme A synthetase (adenosine diphosphate-forming); succinyl coenzyme A synthetase; A-STK (adenin nucleotide-linked succinate thiokinase); STK; A-SCS
+
+map00640 Propanoate metabolism (3)
+
+  ec:1.2.7.1 pyruvate synthase; pyruvate oxidoreductase; pyruvate synthetase; pyruvate:ferredoxin oxidoreductase; pyruvic-ferredoxin oxidoreductase; 2-oxobutyrate synthase; alpha-ketobutyrate-ferredoxin oxidoreductase; 2-ketobutyrate synthase; alpha-ketobutyrate synthase; 2-oxobutyrate-ferredoxin oxidoreductase; 2-oxobutanoate:ferredoxin 2-oxidoreductase (CoA-propionylating); 2-oxobutanoate:ferredoxin 2-oxidoreductase (CoA-propanoylating)
+  ec:6.2.1.1 acetate---CoA ligase; acetyl-CoA synthetase; acetyl activating enzyme; acetate thiokinase; acyl-activating enzyme; acetyl coenzyme A synthetase; acetic thiokinase; acetyl CoA ligase; acetyl CoA synthase; acetyl-coenzyme A synthase; short chain fatty acyl-CoA synthetase; short-chain acyl-coenzyme A synthetase; ACS
+  ec:6.2.1.5 succinate---CoA ligase (ADP-forming); succinyl-CoA synthetase (ADP-forming); succinic thiokinase; succinate thiokinase; succinyl-CoA synthetase; succinyl coenzyme A synthetase (adenosine diphosphate-forming); succinyl coenzyme A synthetase; A-STK (adenin nucleotide-linked succinate thiokinase); STK; A-SCS
+
+map00020 Citrate cycle (TCA cycle) (3)
+
+  ec:1.2.7.1 pyruvate synthase; pyruvate oxidoreductase; pyruvate synthetase; pyruvate:ferredoxin oxidoreductase; pyruvic-ferredoxin oxidoreductase; 2-oxobutyrate synthase; alpha-ketobutyrate-ferredoxin oxidoreductase; 2-ketobutyrate synthase; alpha-ketobutyrate synthase; 2-oxobutyrate-ferredoxin oxidoreductase; 2-oxobutanoate:ferredoxin 2-oxidoreductase (CoA-propionylating); 2-oxobutanoate:ferredoxin 2-oxidoreductase (CoA-propanoylating)
+  ec:1.2.7.3 2-oxoglutarate synthase; 2-ketoglutarate ferredoxin oxidoreductase; 2-oxoglutarate:ferredoxin oxidoreductase; KGOR; 2-oxoglutarate ferredoxin oxidoreductase; 2-oxoglutarate:ferredoxin 2-oxidoreductase (CoA-succinylating)
+  ec:6.2.1.5 succinate---CoA ligase (ADP-forming); succinyl-CoA synthetase (ADP-forming); succinic thiokinase; succinate thiokinase; succinyl-CoA synthetase; succinyl coenzyme A synthetase (adenosine diphosphate-forming); succinyl coenzyme A synthetase; A-STK (adenin nucleotide-linked succinate thiokinase); STK; A-SCS
+
+map00250 Alanine, aspartate and glutamate metabolism (3)
+
+  ec:1.4.1.1 alanine dehydrogenase; AlaDH; L-alanine dehydrogenase; NAD+-linked alanine dehydrogenase; alpha-alanine dehydrogenase; NAD+-dependent alanine dehydrogenase; alanine oxidoreductase; NADH-dependent alanine dehydrogenase
+  ec:2.1.3.2 aspartate carbamoyltransferase; carbamylaspartotranskinase; aspartate transcarbamylase; aspartate carbamyltransferase; aspartic acid transcarbamoylase; aspartic carbamyltransferase; aspartic transcarbamylase; carbamylaspartotranskinase; L-aspartate transcarbamoylase; L-aspartate transcarbamylase; carbamoylaspartotranskinase; aspartate transcarbamylase; aspartate transcarbamoylase; ATCase
+  ec:6.3.1.2 glutamine synthetase; glutamate---ammonia ligase; glutamylhydroxamic synthetase; L-glutamine synthetase; GS
+
+map00983 Drug metabolism - other enzymes (3)
+
+  ec:1.1.1.205 IMP dehydrogenase; inosine-5'-phosphate dehydrogenase; inosinic acid dehydrogenase; inosinate dehydrogenase; inosine 5'-monophosphate dehydrogenase; inosine monophosphate dehydrogenase; IMP oxidoreductase; inosine monophosphate oxidoreductase
+  ec:1.11.1.21 catalase-peroxidase; katG (gene name)
+  ec:2.4.2.10 orotate phosphoribosyltransferase; orotidylic acid phosphorylase; orotidine-5'-phosphate pyrophosphorylase; OPRTase; orotate phosphoribosyl pyrophosphate transferase; orotic acid phosphoribosyltransferase; orotidine 5'-monophosphate pyrophosphorylase; orotidine monophosphate pyrophosphorylase; orotidine phosphoribosyltransferase; orotidylate phosphoribosyltransferase; orotidylate pyrophosphorylase; orotidylic acid pyrophosphorylase; orotidylic phosphorylase; orotidylic pyrophosphorylase
+
+map00261 Monobactam biosynthesis (3)
+
+  ec:1.17.1.8 4-hydroxy-tetrahydrodipicolinate reductase; dihydrodipicolinate reductase (incorrect); dihydrodipicolinic acid reductase (incorrect); 2,3,4,5-tetrahydrodipicolinate:NAD(P)+ oxidoreductase (incorrect); dapB (gene name)
+  ec:1.2.1.11 aspartate-semialdehyde dehydrogenase; aspartate semialdehyde dehydrogenase; aspartic semialdehyde dehydrogenase; L-aspartate-beta-semialdehyde:NADP+ oxidoreductase (phosphorylating); aspartic beta-semialdehyde dehydrogenase; ASA dehydrogenase
+  ec:2.7.2.4 aspartate kinase; aspartokinase; AK; beta-aspartokinase; aspartic kinase
+
+map00230 Purine metabolism (3)
+
+  ec:1.1.1.205 IMP dehydrogenase; inosine-5'-phosphate dehydrogenase; inosinic acid dehydrogenase; inosinate dehydrogenase; inosine 5'-monophosphate dehydrogenase; inosine monophosphate dehydrogenase; IMP oxidoreductase; inosine monophosphate oxidoreductase
+  ec:3.5.4.10 IMP cyclohydrolase; inosinicase; inosinate cyclohydrolase; IMP 1,2-hydrolase (decyclizing)
+  ec:6.3.3.1 phosphoribosylformylglycinamidine cyclo-ligase; phosphoribosylaminoimidazole synthetase; AIR synthetase; 5'-aminoimidazole ribonucleotide synthetase; 2-(formamido)-1-N-(5-phosphoribosyl)acetamidine cyclo-ligase (ADP-forming)
+
+map00030 Pentose phosphate pathway (3)
+
+  ec:3.1.3.11 fructose-bisphosphatase; hexose diphosphatase; FBPase; fructose 1,6-diphosphatase; fructose 1,6-diphosphate phosphatase; D-fructose 1,6-diphosphatase; fructose 1,6-bisphosphatase; fructose diphosphatase; fructose diphosphate phosphatase; fructose bisphosphate phosphatase; fructose 1,6-bisphosphate 1-phosphatase; fructose 1,6-bisphosphate phosphatase; hexose bisphosphatase; D-fructose-1,6-bisphosphate phosphatase
+  ec:4.1.2.13 fructose-bisphosphate aldolase; aldolase; fructose-1,6-bisphosphate triosephosphate-lyase; fructose diphosphate aldolase; diphosphofructose aldolase; fructose 1,6-diphosphate aldolase; ketose 1-phosphate aldolase; phosphofructoaldolase; zymohexase; fructoaldolase; fructose 1-phosphate aldolase; fructose 1-monophosphate aldolase; 1,6-diphosphofructose aldolase; SMALDO; D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase
+  ec:4.1.2.43 3-hexulose-6-phosphate synthase; D-arabino-3-hexulose 6-phosphate formaldehyde-lyase; 3-hexulosephosphate synthase; 3-hexulose phosphate synthase; HPS
+
+map00051 Fructose and mannose metabolism (3)
+
+  ec:3.1.3.11 fructose-bisphosphatase; hexose diphosphatase; FBPase; fructose 1,6-diphosphatase; fructose 1,6-diphosphate phosphatase; D-fructose 1,6-diphosphatase; fructose 1,6-bisphosphatase; fructose diphosphatase; fructose diphosphate phosphatase; fructose bisphosphate phosphatase; fructose 1,6-bisphosphate 1-phosphatase; fructose 1,6-bisphosphate phosphatase; hexose bisphosphatase; D-fructose-1,6-bisphosphate phosphatase
+  ec:4.1.2.13 fructose-bisphosphate aldolase; aldolase; fructose-1,6-bisphosphate triosephosphate-lyase; fructose diphosphate aldolase; diphosphofructose aldolase; fructose 1,6-diphosphate aldolase; ketose 1-phosphate aldolase; phosphofructoaldolase; zymohexase; fructoaldolase; fructose 1-phosphate aldolase; fructose 1-monophosphate aldolase; 1,6-diphosphofructose aldolase; SMALDO; D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase
+  ec:5.3.1.1 triose-phosphate isomerase; phosphotriose isomerase; triose phosphoisomerase; triose phosphate mutase; D-glyceraldehyde-3-phosphate ketol-isomerase
+
+map00240 Pyrimidine metabolism (3)
+
+  ec:2.1.3.2 aspartate carbamoyltransferase; carbamylaspartotranskinase; aspartate transcarbamylase; aspartate carbamyltransferase; aspartic acid transcarbamoylase; aspartic carbamyltransferase; aspartic transcarbamylase; carbamylaspartotranskinase; L-aspartate transcarbamoylase; L-aspartate transcarbamylase; carbamoylaspartotranskinase; aspartate transcarbamylase; aspartate transcarbamoylase; ATCase
+  ec:2.4.2.10 orotate phosphoribosyltransferase; orotidylic acid phosphorylase; orotidine-5'-phosphate pyrophosphorylase; OPRTase; orotate phosphoribosyl pyrophosphate transferase; orotic acid phosphoribosyltransferase; orotidine 5'-monophosphate pyrophosphorylase; orotidine monophosphate pyrophosphorylase; orotidine phosphoribosyltransferase; orotidylate phosphoribosyltransferase; orotidylate pyrophosphorylase; orotidylic acid pyrophosphorylase; orotidylic phosphorylase; orotidylic pyrophosphorylase
+  ec:2.7.4.22 UMP kinase; uridylate kinase; UMPK; uridine monophosphate kinase; PyrH; UMP-kinase; SmbA
+
+map00630 Glyoxylate and dicarboxylate metabolism (2)
+
+  ec:6.2.1.1 acetate---CoA ligase; acetyl-CoA synthetase; acetyl activating enzyme; acetate thiokinase; acyl-activating enzyme; acetyl coenzyme A synthetase; acetic thiokinase; acetyl CoA ligase; acetyl CoA synthase; acetyl-coenzyme A synthase; short chain fatty acyl-CoA synthetase; short-chain acyl-coenzyme A synthetase; ACS
+  ec:6.3.1.2 glutamine synthetase; glutamate---ammonia ligase; glutamylhydroxamic synthetase; L-glutamine synthetase; GS
+
+map00970 Aminoacyl-tRNA biosynthesis (2)
+
+  ec:6.1.1.23 aspartate---tRNAAsn ligase; nondiscriminating aspartyl-tRNA synthetase
+  ec:6.1.1.3 threonine---tRNA ligase; threonyl-tRNA synthetase; threonyl-transfer ribonucleate synthetase; threonyl-transfer RNA synthetase; threonyl-transfer ribonucleic acid synthetase; threonyl ribonucleic synthetase; threonine-transfer ribonucleate synthetase; threonine translase; threonyl-tRNA synthetase; TRS
+
+map00620 Pyruvate metabolism (2)
+
+  ec:1.2.7.1 pyruvate synthase; pyruvate oxidoreductase; pyruvate synthetase; pyruvate:ferredoxin oxidoreductase; pyruvic-ferredoxin oxidoreductase; 2-oxobutyrate synthase; alpha-ketobutyrate-ferredoxin oxidoreductase; 2-ketobutyrate synthase; alpha-ketobutyrate synthase; 2-oxobutyrate-ferredoxin oxidoreductase; 2-oxobutanoate:ferredoxin 2-oxidoreductase (CoA-propionylating); 2-oxobutanoate:ferredoxin 2-oxidoreductase (CoA-propanoylating)
+  ec:6.2.1.1 acetate---CoA ligase; acetyl-CoA synthetase; acetyl activating enzyme; acetate thiokinase; acyl-activating enzyme; acetyl coenzyme A synthetase; acetic thiokinase; acetyl CoA ligase; acetyl CoA synthase; acetyl-coenzyme A synthase; short chain fatty acyl-CoA synthetase; short-chain acyl-coenzyme A synthetase; ACS
+
+map00750 Vitamin B6 metabolism (2)
+
+  ec:4.2.3.1 threonine synthase; threonine synthetase; O-phospho-L-homoserine phospho-lyase (adding water)
+  ec:4.3.3.6 pyridoxal 5'-phosphate synthase (glutamine hydrolysing); PdxST
+
+map00900 Terpenoid backbone biosynthesis (2)
+
+  ec:1.1.1.34 hydroxymethylglutaryl-CoA reductase (NADPH); hydroxymethylglutaryl coenzyme A reductase (reduced nicotinamide adenine dinucleotide phosphate); 3-hydroxy-3-methylglutaryl-CoA reductase; beta-hydroxy-beta-methylglutaryl coenzyme A reductase; hydroxymethylglutaryl CoA reductase (NADPH); S-3-hydroxy-3-methylglutaryl-CoA reductase; NADPH-hydroxymethylglutaryl-CoA reductase; HMGCoA reductase-mevalonate:NADP-oxidoreductase (acetylating-CoA); 3-hydroxy-3-methylglutaryl CoA reductase (NADPH); hydroxymethylglutaryl-CoA reductase (NADPH2)
+  ec:5.3.3.2 isopentenyl-diphosphate Delta-isomerase; isopentenylpyrophosphate Delta-isomerase; methylbutenylpyrophosphate isomerase; isopentenylpyrophosphate isomerase
+
+map00290 Valine, leucine and isoleucine biosynthesis (2)
+
+  ec:1.1.1.86 ketol-acid reductoisomerase (NADP+); dihydroxyisovalerate dehydrogenase (isomerizing); acetohydroxy acid isomeroreductase; ketol acid reductoisomerase; alpha-keto-beta-hydroxylacyl reductoisomerase; 2-hydroxy-3-keto acid reductoisomerase; acetohydroxy acid reductoisomerase; acetolactate reductoisomerase; dihydroxyisovalerate (isomerizing) dehydrogenase; isomeroreductase; reductoisomerase; ketol-acid reductoisomerase; (R)-2,3-dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)
+  ec:2.6.1.42 branched-chain-amino-acid transaminase; transaminase B; branched-chain amino acid aminotransferase; branched-chain amino acid-glutamate transaminase; branched-chain aminotransferase; L-branched chain amino acid aminotransferase; glutamate-branched-chain amino acid transaminase
+
+map00910 Nitrogen metabolism (2)
+
+  ec:1.7.99.1 hydroxylamine reductase; hydroxylamine (acceptor) reductase; ammonia:(acceptor) oxidoreductase
+  ec:6.3.1.2 glutamine synthetase; glutamate---ammonia ligase; glutamylhydroxamic synthetase; L-glutamine synthetase; GS
+
+map00220 Arginine biosynthesis (2)
+
+  ec:2.7.2.8 acetylglutamate kinase; N-acetylglutamate 5-phosphotransferase; acetylglutamate phosphokinase; N-acetylglutamate phosphokinase; N-acetylglutamate kinase; N-acetylglutamic 5-phosphotransferase
+  ec:6.3.1.2 glutamine synthetase; glutamate---ammonia ligase; glutamylhydroxamic synthetase; L-glutamine synthetase; GS
+
+map00770 Pantothenate and CoA biosynthesis (2)
+
+  ec:1.1.1.86 ketol-acid reductoisomerase (NADP+); dihydroxyisovalerate dehydrogenase (isomerizing); acetohydroxy acid isomeroreductase; ketol acid reductoisomerase; alpha-keto-beta-hydroxylacyl reductoisomerase; 2-hydroxy-3-keto acid reductoisomerase; acetohydroxy acid reductoisomerase; acetolactate reductoisomerase; dihydroxyisovalerate (isomerizing) dehydrogenase; isomeroreductase; reductoisomerase; ketol-acid reductoisomerase; (R)-2,3-dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)
+  ec:2.6.1.42 branched-chain-amino-acid transaminase; transaminase B; branched-chain amino acid aminotransferase; branched-chain amino acid-glutamate transaminase; branched-chain aminotransferase; L-branched chain amino acid aminotransferase; glutamate-branched-chain amino acid transaminase
+
+map00633 Nitrotoluene degradation (1)
+
+  ec:1.2.7.1 pyruvate synthase; pyruvate oxidoreductase; pyruvate synthetase; pyruvate:ferredoxin oxidoreductase; pyruvic-ferredoxin oxidoreductase; 2-oxobutyrate synthase; alpha-ketobutyrate-ferredoxin oxidoreductase; 2-ketobutyrate synthase; alpha-ketobutyrate synthase; 2-oxobutyrate-ferredoxin oxidoreductase; 2-oxobutanoate:ferredoxin 2-oxidoreductase (CoA-propionylating); 2-oxobutanoate:ferredoxin 2-oxidoreductase (CoA-propanoylating)
+
+map00360 Phenylalanine metabolism (1)
+
+  ec:1.11.1.21 catalase-peroxidase; katG (gene name)
+
+map00521 Streptomycin biosynthesis (1)
+
+  ec:4.2.1.46 dTDP-glucose 4,6-dehydratase; thymidine diphosphoglucose oxidoreductase; TDP-glucose oxidoreductase; dTDP-glucose 4,6-hydro-lyase; dTDP-glucose 4,6-hydro-lyase (dTDP-4-dehydro-6-deoxy-alpha-D-glucose-forming)
+
+map00940 Phenylpropanoid biosynthesis (1)
+
+  ec:1.11.1.21 catalase-peroxidase; katG (gene name)
+
+map00564 Glycerophospholipid metabolism (1)
+
+  ec:1.3.7.11 2,3-bis-O-geranylgeranyl-sn-glycero-phospholipid reductase; AF0464 (gene name); 2,3-bis-O-geranylgeranyl-sn-glycerol 1-phosphate reductase (donor)
+
+map00280 Valine, leucine and isoleucine degradation (1)
+
+  ec:2.6.1.42 branched-chain-amino-acid transaminase; transaminase B; branched-chain amino acid aminotransferase; branched-chain amino acid-glutamate transaminase; branched-chain aminotransferase; L-branched chain amino acid aminotransferase; glutamate-branched-chain amino acid transaminase
+
+map00523 Polyketide sugar unit biosynthesis (1)
+
+  ec:4.2.1.46 dTDP-glucose 4,6-dehydratase; thymidine diphosphoglucose oxidoreductase; TDP-glucose oxidoreductase; dTDP-glucose 4,6-hydro-lyase; dTDP-glucose 4,6-hydro-lyase (dTDP-4-dehydro-6-deoxy-alpha-D-glucose-forming)
+
+map00120 Primary bile acid biosynthesis (1)
+
+  ec:3.5.1.24 choloylglycine hydrolase; glycocholase; bile salt hydrolase; choloyltaurine hydrolase; 3alpha,7alpha,12alpha-trihydroxy-5beta-cholan-24-oylglycine amidohydrolase
+
+map00562 Inositol phosphate metabolism (1)
+
+  ec:5.3.1.1 triose-phosphate isomerase; phosphotriose isomerase; triose phosphoisomerase; triose phosphate mutase; D-glyceraldehyde-3-phosphate ketol-isomerase
+
+map00966 Glucosinolate biosynthesis (1)
+
+  ec:2.6.1.42 branched-chain-amino-acid transaminase; transaminase B; branched-chain amino acid aminotransferase; branched-chain amino acid-glutamate transaminase; branched-chain aminotransferase; L-branched chain amino acid aminotransferase; glutamate-branched-chain amino acid transaminase
+
+map00400 Phenylalanine, tyrosine and tryptophan biosynthesis (1)
+
+  ec:1.4.1.24 3-dehydroquinate synthase II; DHQ synthase II; MJ1249 (gene name); aroB' (gene name)
+
+map00760 Nicotinate and nicotinamide metabolism (1)
+
+  ec:1.4.1.21 aspartate dehydrogenase; NAD-dependent aspartate dehydrogenase; NADH2-dependent aspartate dehydrogenase; NADP+-dependent aspartate dehydrogenase
+
+map00380 Tryptophan metabolism (1)
+
+  ec:1.11.1.21 catalase-peroxidase; katG (gene name)
+
+map00052 Galactose metabolism (1)
+
+  ec:5.1.3.2 UDP-glucose 4-epimerase; UDP-galactose 4-epimerase; uridine diphosphoglucose epimerase; galactowaldenase; UDPG-4-epimerase; uridine diphosphate galactose 4-epimerase; uridine diphospho-galactose-4-epimerase; UDP-glucose epimerase; 4-epimerase; uridine diphosphoglucose 4-epimerase; uridine diphosphate glucose 4-epimerase; UDP-D-galactose 4-epimerase
+
+map00660 C5-Branched dibasic acid metabolism (1)
+
+  ec:6.2.1.5 succinate---CoA ligase (ADP-forming); succinyl-CoA synthetase (ADP-forming); succinic thiokinase; succinate thiokinase; succinyl-CoA synthetase; succinyl coenzyme A synthetase (adenosine diphosphate-forming); succinyl coenzyme A synthetase; A-STK (adenin nucleotide-linked succinate thiokinase); STK; A-SCS
+
+map01055 Biosynthesis of vancomycin group antibiotics (1)
+
+  ec:4.2.1.46 dTDP-glucose 4,6-dehydratase; thymidine diphosphoglucose oxidoreductase; TDP-glucose oxidoreductase; dTDP-glucose 4,6-hydro-lyase; dTDP-glucose 4,6-hydro-lyase (dTDP-4-dehydro-6-deoxy-alpha-D-glucose-forming)
+
+map00730 Thiamine metabolism (1)
+
+  ec:2.4.2.59 sulfide-dependent adenosine diphosphate thiazole synthase; Thi4 (ambiguous)
+
+map00650 Butanoate metabolism (1)
+
+  ec:1.2.7.1 pyruvate synthase; pyruvate oxidoreductase; pyruvate synthetase; pyruvate:ferredoxin oxidoreductase; pyruvic-ferredoxin oxidoreductase; 2-oxobutyrate synthase; alpha-ketobutyrate-ferredoxin oxidoreductase; 2-ketobutyrate synthase; alpha-ketobutyrate synthase; 2-oxobutyrate-ferredoxin oxidoreductase; 2-oxobutanoate:ferredoxin 2-oxidoreductase (CoA-propionylating); 2-oxobutanoate:ferredoxin 2-oxidoreductase (CoA-propanoylating)
+
+map00740 Riboflavin metabolism (1)
+
+  ec:3.5.4.29 GTP cyclohydrolase IIa
+
+map00520 Amino sugar and nucleotide sugar metabolism (1)
+
+  ec:5.1.3.2 UDP-glucose 4-epimerase; UDP-galactose 4-epimerase; uridine diphosphoglucose epimerase; galactowaldenase; UDPG-4-epimerase; uridine diphosphate galactose 4-epimerase; uridine diphospho-galactose-4-epimerase; UDP-glucose epimerase; 4-epimerase; uridine diphosphoglucose 4-epimerase; uridine diphosphate glucose 4-epimerase; UDP-D-galactose 4-epimerase
+
+map00430 Taurine and hypotaurine metabolism (1)
+
+  ec:1.4.1.1 alanine dehydrogenase; AlaDH; L-alanine dehydrogenase; NAD+-linked alanine dehydrogenase; alpha-alanine dehydrogenase; NAD+-dependent alanine dehydrogenase; alanine oxidoreductase; NADH-dependent alanine dehydrogenase
+
+map00525 Acarbose and validamycin biosynthesis (1)
+
+  ec:4.2.1.46 dTDP-glucose 4,6-dehydratase; thymidine diphosphoglucose oxidoreductase; TDP-glucose oxidoreductase; dTDP-glucose 4,6-hydro-lyase; dTDP-glucose 4,6-hydro-lyase (dTDP-4-dehydro-6-deoxy-alpha-D-glucose-forming)
+
+map00121 Secondary bile acid biosynthesis (1)
+
+  ec:3.5.1.24 choloylglycine hydrolase; glycocholase; bile salt hydrolase; choloyltaurine hydrolase; 3alpha,7alpha,12alpha-trihydroxy-5beta-cholan-24-oylglycine amidohydrolase
+
+map00920 Sulfur metabolism (1)
+
+  ec:2.5.1.47 cysteine synthase; O-acetyl-L-serine sulfhydrylase; O-acetyl-L-serine sulfohydrolase; O-acetylserine (thiol)-lyase; O-acetylserine (thiol)-lyase A; O-acetylserine sulfhydrylase; O3-acetyl-L-serine acetate-lyase (adding hydrogen-sulfide); acetylserine sulfhydrylase; cysteine synthetase; S-sulfocysteine synthase; 3-O-acetyl-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase; O3-acetyl-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase

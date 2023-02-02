@@ -1,0 +1,121 @@
+
+Project Details
+
+1: PeptideShaker Version: 1.16.40
+2: Date: Tue May 04 15:42:57 UTC 2021
+3: Experiment: experiment
+4: Sample: CS6
+5: Replicate Number: 1
+6: Identification Algorithms: MS-GF+
+
+Database Search Parameters
+
+1: Precursor Tolerance Unit: ppm
+2: Precursor Ion m/z Tolerance: 10.0
+3: Fragment Ion Tolerance Unit: Da
+4: Fragment Ion m/z Tolerance: 0.02
+5: Cleavage: Enzyme
+6: Enzyme: Trypsin
+7: Missed Cleavages: 2
+8: Specificity: Specific
+9: Database: database_concatenated_target_decoy.fasta
+10: Forward Ion: b
+11: Rewind Ion: y
+12: Fixed Modifications: Carbamidomethylation of C
+13: Variable Modifications: Oxidation of M, Acetylation of protein N-term
+14: Refinement Variable Modifications: 
+15: Refinement Fixed Modifications: 
+
+Input Filters
+
+1: Minimal Peptide Length: 8
+2: Maximal Peptide Length: 30
+3: Precursor m/z Tolerance: 10.0
+4: Precursor m/z Tolerance Unit: Yes
+5: Unrecognized Modifications Discarded: Yes
+
+Validation Summary
+
+1: Proteins: #Validated: 482.0
+2: Proteins: Total Possible TP: 576.91
+3: Proteins: FDR Limit [%]: 0.83
+4: Proteins: FNR Limit [%]: 17.1
+5: Proteins: Confidence Limit [%]: 58.82
+6: Proteins: PEP Limit [%]: 41.18
+7: Proteins: Confidence Accuracy [%]: 5.88
+8: Peptides (Unmodified): #Validated: 2338.0
+9: Peptides (Other): #Validated: 124.0
+10: Peptides (Unmodified): Total Possible TP: 2979.09
+11: Peptides (Other): Total Possible TP: 531.76
+12: Peptides (Unmodified): FDR Limit [%]: 0.94
+13: Peptides (Other): FDR Limit [%]: 0.81
+14: Peptides (Unmodified): FNR Limit [%]: 22.29
+15: Peptides (Other): FNR Limit [%]: 76.89
+16: Peptides (Unmodified): Confidence Limit [%]: 85.12
+17: Peptides (Other): Confidence Limit [%]: 91.45
+18: Peptides (Unmodified): PEP Limit [%]: 14.88
+19: Peptides (Other): PEP Limit [%]: 8.55
+20: Peptides (Unmodified): Confidence Accuracy [%]: 0.83
+21: Peptides (Other): Confidence Accuracy [%]: 1.85
+22: PSMs (Charge 2 of file CS6_1uL.mgf): #Validated PSM: 2452.0
+23: PSMs (Charge 2 of file CS6_9uL.mgf): #Validated PSM: 3326.0
+24: PSMs (Charge 3 of file CS6_1uL.mgf): #Validated PSM: 1395.0
+25: PSMs (Charge 3 of file CS6_9uL.mgf): #Validated PSM: 1280.0
+26: PSMs (Charge 1): #Validated PSM: 0.0
+27: PSMs (Charge 4): #Validated PSM: 205.0
+28: PSMs (Charge 2 of file CS6_1uL.mgf): Total Possible TP: 3874.03
+29: PSMs (Charge 2 of file CS6_9uL.mgf): Total Possible TP: 4501.0
+30: PSMs (Charge 3 of file CS6_1uL.mgf): Total Possible TP: 1992.6
+31: PSMs (Charge 3 of file CS6_9uL.mgf): Total Possible TP: 2429.77
+32: PSMs (Charge 1): Total Possible TP: 0.0
+33: PSMs (Charge 4): Total Possible TP: 302.83
+34: PSMs (Charge 2 of file CS6_1uL.mgf): FDR Limit [%]: 0.98
+35: PSMs (Charge 2 of file CS6_9uL.mgf): FDR Limit [%]: 0.99
+36: PSMs (Charge 3 of file CS6_1uL.mgf): FDR Limit [%]: 0.93
+37: PSMs (Charge 3 of file CS6_9uL.mgf): FDR Limit [%]: 0.94
+38: PSMs (Charge 1): FDR Limit [%]: 0.0
+39: PSMs (Charge 4): FDR Limit [%]: 0.98
+40: PSMs (Charge 2 of file CS6_1uL.mgf): FNR Limit [%]: 37.38
+41: PSMs (Charge 2 of file CS6_9uL.mgf): FNR Limit [%]: 26.85
+42: PSMs (Charge 3 of file CS6_1uL.mgf): FNR Limit [%]: 30.75
+43: PSMs (Charge 3 of file CS6_9uL.mgf): FNR Limit [%]: 47.89
+44: PSMs (Charge 1): FNR Limit [%]: 0.0
+45: PSMs (Charge 4): FNR Limit [%]: 32.91
+46: PSMs (Charge 2 of file CS6_1uL.mgf): Confidence Limit [%]: 89.6
+47: PSMs (Charge 2 of file CS6_9uL.mgf): Confidence Limit [%]: 87.25
+48: PSMs (Charge 3 of file CS6_1uL.mgf): Confidence Limit [%]: 83.83
+49: PSMs (Charge 3 of file CS6_9uL.mgf): Confidence Limit [%]: 92.39
+50: PSMs (Charge 1): Confidence Limit [%]: 0.0
+51: PSMs (Charge 4): Confidence Limit [%]: 86.96
+52: PSMs (Charge 2 of file CS6_1uL.mgf): PEP Limit [%]: 10.4
+53: PSMs (Charge 2 of file CS6_9uL.mgf): PEP Limit [%]: 12.75
+54: PSMs (Charge 3 of file CS6_1uL.mgf): PEP Limit [%]: 16.17
+55: PSMs (Charge 3 of file CS6_9uL.mgf): PEP Limit [%]: 7.61
+56: PSMs (Charge 1): PEP Limit [%]: 100.0
+57: PSMs (Charge 4): PEP Limit [%]: 13.04
+58: PSMs (Charge 2 of file CS6_1uL.mgf): Confidence Accuracy [%]: 0.58
+59: PSMs (Charge 2 of file CS6_9uL.mgf): Confidence Accuracy [%]: 0.68
+60: PSMs (Charge 3 of file CS6_1uL.mgf): Confidence Accuracy [%]: 0.6
+61: PSMs (Charge 3 of file CS6_9uL.mgf): Confidence Accuracy [%]: 0.51
+62: PSMs (Charge 1): Confidence Accuracy [%]: 11.11
+63: PSMs (Charge 4): Confidence Accuracy [%]: 4.55
+
+PTM Scoring Settings
+
+1: Probabilistic Score: PhosphoRS
+2: Accounting for Neutral Losses: No
+3: Threshold: 95.0
+
+Spectrum Counting Parameters
+
+1: Method: NSAF
+2: Validated Matches Only: No
+
+Annotation Settings
+
+1: Intensity Limit: 0.75
+2: Automatic Annotation: Yes
+3: Selected Ions: y, b
+4: Neutral Losses: H2O, NH3, CH4OS
+5: Neutral Losses Sequence Dependence: Yes
+6: Fragment Ion m/z Tolerance: 0.02

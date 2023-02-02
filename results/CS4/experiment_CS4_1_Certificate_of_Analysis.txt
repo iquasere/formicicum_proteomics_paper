@@ -1,0 +1,107 @@
+
+Project Details
+
+1: PeptideShaker Version: 1.16.40
+2: Date: Tue May 04 08:41:41 UTC 2021
+3: Experiment: experiment
+4: Sample: CS4
+5: Replicate Number: 1
+6: Identification Algorithms: MS-GF+
+
+Database Search Parameters
+
+1: Precursor Tolerance Unit: ppm
+2: Precursor Ion m/z Tolerance: 10.0
+3: Fragment Ion Tolerance Unit: Da
+4: Fragment Ion m/z Tolerance: 0.02
+5: Cleavage: Enzyme
+6: Enzyme: Trypsin
+7: Missed Cleavages: 2
+8: Specificity: Specific
+9: Database: database_concatenated_target_decoy.fasta
+10: Forward Ion: b
+11: Rewind Ion: y
+12: Fixed Modifications: Carbamidomethylation of C
+13: Variable Modifications: Oxidation of M, Acetylation of protein N-term
+14: Refinement Variable Modifications: 
+15: Refinement Fixed Modifications: 
+
+Input Filters
+
+1: Minimal Peptide Length: 8
+2: Maximal Peptide Length: 30
+3: Precursor m/z Tolerance: 10.0
+4: Precursor m/z Tolerance Unit: Yes
+5: Unrecognized Modifications Discarded: Yes
+
+Validation Summary
+
+1: Proteins: #Validated: 363.0
+2: Proteins: Total Possible TP: 434.25
+3: Proteins: FDR Limit [%]: 0.83
+4: Proteins: FNR Limit [%]: 17.21
+5: Proteins: Confidence Limit [%]: 78.26
+6: Proteins: PEP Limit [%]: 21.74
+7: Proteins: Confidence Accuracy [%]: 4.55
+8: Peptides: #Validated: 1639.0
+9: Peptides: Total Possible TP: 2493.38
+10: Peptides: FDR Limit [%]: 0.98
+11: Peptides: FNR Limit [%]: 34.89
+12: Peptides: Confidence Limit [%]: 85.0
+13: Peptides: PEP Limit [%]: 15.0
+14: Peptides: Confidence Accuracy [%]: 1.49
+15: PSMs (Charge 2 of file CS4_1uL.mgf): #Validated PSM: 478.0
+16: PSMs (Charge 2 of file CS4_9uL.mgf): #Validated PSM: 2565.0
+17: PSMs (Charge 3 of file CS4_9uL.mgf): #Validated PSM: 1313.0
+18: PSMs (Charge 1): #Validated PSM: 0.0
+19: PSMs (Other Charge 3 and Charge 4): #Validated PSM: 385.0
+20: PSMs (Charge 2 of file CS4_1uL.mgf): Total Possible TP: 1094.87
+21: PSMs (Charge 2 of file CS4_9uL.mgf): Total Possible TP: 3327.1
+22: PSMs (Charge 3 of file CS4_9uL.mgf): Total Possible TP: 1891.78
+23: PSMs (Charge 1): Total Possible TP: 0.0
+24: PSMs (Other Charge 3 and Charge 4): Total Possible TP: 545.4
+25: PSMs (Charge 2 of file CS4_1uL.mgf): FDR Limit [%]: 0.84
+26: PSMs (Charge 2 of file CS4_9uL.mgf): FDR Limit [%]: 0.94
+27: PSMs (Charge 3 of file CS4_9uL.mgf): FDR Limit [%]: 0.91
+28: PSMs (Charge 1): FDR Limit [%]: 0.0
+29: PSMs (Other Charge 3 and Charge 4): FDR Limit [%]: 0.78
+30: PSMs (Charge 2 of file CS4_1uL.mgf): FNR Limit [%]: 56.93
+31: PSMs (Charge 2 of file CS4_9uL.mgf): FNR Limit [%]: 23.66
+32: PSMs (Charge 3 of file CS4_9uL.mgf): FNR Limit [%]: 31.31
+33: PSMs (Charge 1): FNR Limit [%]: 0.0
+34: PSMs (Other Charge 3 and Charge 4): FNR Limit [%]: 30.08
+35: PSMs (Charge 2 of file CS4_1uL.mgf): Confidence Limit [%]: 90.86
+36: PSMs (Charge 2 of file CS4_9uL.mgf): Confidence Limit [%]: 91.43
+37: PSMs (Charge 3 of file CS4_9uL.mgf): Confidence Limit [%]: 87.1
+38: PSMs (Charge 1): Confidence Limit [%]: 0.0
+39: PSMs (Other Charge 3 and Charge 4): Confidence Limit [%]: 84.0
+40: PSMs (Charge 2 of file CS4_1uL.mgf): PEP Limit [%]: 9.14
+41: PSMs (Charge 2 of file CS4_9uL.mgf): PEP Limit [%]: 8.57
+42: PSMs (Charge 3 of file CS4_9uL.mgf): PEP Limit [%]: 12.9
+43: PSMs (Charge 1): PEP Limit [%]: 100.0
+44: PSMs (Other Charge 3 and Charge 4): PEP Limit [%]: 16.0
+45: PSMs (Charge 2 of file CS4_1uL.mgf): Confidence Accuracy [%]: 0.57
+46: PSMs (Charge 2 of file CS4_9uL.mgf): Confidence Accuracy [%]: 0.95
+47: PSMs (Charge 3 of file CS4_9uL.mgf): Confidence Accuracy [%]: 0.65
+48: PSMs (Charge 1): Confidence Accuracy [%]: 20.0
+49: PSMs (Other Charge 3 and Charge 4): Confidence Accuracy [%]: 4.17
+
+PTM Scoring Settings
+
+1: Probabilistic Score: PhosphoRS
+2: Accounting for Neutral Losses: No
+3: Threshold: 95.0
+
+Spectrum Counting Parameters
+
+1: Method: NSAF
+2: Validated Matches Only: No
+
+Annotation Settings
+
+1: Intensity Limit: 0.75
+2: Automatic Annotation: Yes
+3: Selected Ions: y, b
+4: Neutral Losses: H2O, NH3, CH4OS
+5: Neutral Losses Sequence Dependence: Yes
+6: Fragment Ion m/z Tolerance: 0.02

@@ -23,7 +23,21 @@ for sample in SAMPLES:
         columns={'#Validated PSMs': sample, 'Main Accession': 'Entry'})
     quant_df = pd.merge(quant_df, ps_report, how='left', on='Entry')
 
+quant_df[SAMPLES] = quant_df[SAMPLES].fillna(value=0.0).astype(int)
+quant_df = quant_df[quant_df[SAMPLES].sum(axis=1) > 0]
+quant_df.to_csv(f'{OUT}/results/quant_df.tsv', sep='\t', index=False)
+
+# Rscript MOSCA/workflow/scripts/normalization.R -c formicicum_proteomics/results/quant_df.tsv
+# -o formicicum_proteomics/results/quant_norm.tsv -m VSN
+
+quant_norm = pd.read_csv(f'{OUT}/results/quant_norm.tsv', sep='\t')
+quant_norm.rename(columns={f'CS{i}': f'CS{i}_norm' for i in range(1, 7)}, inplace=True)
+quant_norm['logFC'] = quant_norm['CS5_norm'] - quant_norm['CS2_norm']
 all_info = pd.merge(up_res, recog_res, on='Entry', how='left')
 all_info = pd.merge(all_info, quant_df, on='Entry', how='left')
 all_info[SAMPLES] = all_info[SAMPLES].fillna(value=0.0)
+all_info = pd.merge(all_info, quant_norm, left_on='Entry', right_index=True, how='left')
+all_info = all_info.reindex(all_info['logFC'].abs().sort_values(ascending=False).index)
+all_info.to_csv(f'{OUT}/results/all_info.tsv', sep='\t', index=False)
+
 
